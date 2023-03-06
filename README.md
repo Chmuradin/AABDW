@@ -3,5 +3,6 @@ Repository for a group assignment for the "Advanced Analytics in a Big Data Worl
 
 Assignment 1:
 List of attempts (score as RMSE on the hidden test dataset):
-1) Michal's XGBRegressor attmept: 48.591
+1) Michal's XGBRegressor attempt: 48.591
 2) Michal's RandomForestRegressor attempt: 46.968
+3) Michal's XGBRegressor 2nd attempt: 47.776

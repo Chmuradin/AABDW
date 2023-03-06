@@ -2,13 +2,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.pipeline import make_pipeline
 import xgboost as xgb
-
-
-def train_val_test(data: pd.DataFrame):
-    df, validation_df = train_test_split(data, test_size=0.01, random_state=42)
-    df_train, df_test = train_test_split(df, test_size=0.2, random_state=42)
-    return df_train, df_test, validation_df
 
 
 def countWords(s: str) -> int:
@@ -16,6 +11,12 @@ def countWords(s: str) -> int:
         return 0
     words = s.split()
     return len(words)
+
+
+def PipelineForXGBoostRegressor():
+    return make_pipeline([
+        ('xgb', xgb.XGBRegressor())
+    ])
 
 
 def data_wrangling(url: str, rare_list=[]):

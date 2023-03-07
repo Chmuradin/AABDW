@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV, KFold
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
@@ -56,11 +56,11 @@ param_grid_xgb = {'xgb__max_depth': [2, 3],
 param_grid_log = {"pca_log__n_components": [2, 3, 4, 5, 6, 7, 8, 9, 10],
                   "logistic__C": np.logspace(-4, 4, 8), }
 param_grid_rf = {'rf__bootstrap': [True, False],
-                 'rf__max_depth': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, None],
+                 'rf__max_depth': [3,4,5,6,7, None],
                  'rf__max_features': [1.0, 'sqrt'],
                  'rf__min_samples_leaf': [1, 2, 4],
                  'rf__min_samples_split': [2, 5, 10],
-                 'rf__n_estimators': [200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000]}
+                 'rf__n_estimators': [200, 400, 600]}
 
 # Load the data
 data, rare_list = data_wrangling('train.csv')
@@ -74,24 +74,26 @@ X_train, X_test, y_train, y_test = train_test_split(data.drop('target', axis=1),
 #print("Best parameter (CV score=%0.3f):" % search.best_score_)
 #print(search.best_params_)
 
-search_xgb = RandomizedSearchCV(pipe_xgb, param_grid_xgb, n_jobs=-1, n_iter=150,verbose=2)
-search_xgb.fit(X_train, y_train)
-print("Best parameter (CV score=%0.3f):" % search_xgb.best_score_)
-print(search_xgb.best_params_)
-fin_xgb = pd.DataFrame(search_xgb.predict(final_testing_data))
-final_xgb = pd.concat([final_testing_data.property_id, fin_xgb], axis=1)
+#search_xgb = RandomizedSearchCV(pipe_xgb, param_grid_xgb, n_jobs=-1, n_iter=150,verbose=2)
+#search_xgb.fit(X_train, y_train)
+#print("Best parameter (CV score=%0.3f):" % search_xgb.best_score_)
+#print(search_xgb.best_params_)
+#fin_xgb = pd.DataFrame(search_xgb.predict(final_testing_data))
+#final_xgb = pd.concat([final_testing_data.property_id, fin_xgb], axis=1)
 
-with open('out_xgb2.csv', 'w', newline='') as csv_file:
-    final_xgb.to_csv(path_or_buf=csv_file, index=False, header=False)
+#with open('out_xgb2.csv', 'w', newline='') as csv_file:
+ #   final_xgb.to_csv(path_or_buf=csv_file, index=False, header=False)
 
 
-
-#search_rf = RandomizedSearchCV(pipe_rf, param_grid_rf, n_jobs=2,n_iter=50,verbose=2)
-#search_rf.fit(X_train, y_train)
-#print("Best parameter (CV score=%0.3f):" % search_rf.best_score_)
-#print(search_rf.best_params_)
+search_rf = RandomizedSearchCV(pipe_rf, param_grid_rf, n_jobs=-1,n_iter=150,verbose=2)
+search_rf.fit(X_train, y_train)
+print("Best parameter (CV score=%0.3f):" % search_rf.best_score_)
+print(search_rf.best_params_)
 # 'xgb__subsample': 0.8, 'xgb__n_estimators': 100, 'xgb__min_child_weight': 3, 'xgb__max_depth': 2, 'xgb__gamma': 0.3, 'xgb__colsample_bytree': 0.1
-#tr_fin_rf = search_xgb.predict(final_testing_data)
+fin_rf = pd.DataFrame(search_rf.predict(final_testing_data))
+final_rf = pd.concat([final_testing_data.property_id, fin_rf], axis=1)
 
-#with open('out_rf2.csv', 'w', newline='') as csv_file:
- #   tr_fin_rf.to_csv(path_or_buf=csv_file, index=False, header=False)
+#{'rf__n_estimators': 200, 'rf__min_samples_split': 10, 'rf__min_samples_leaf': 4, 'rf__max_features': 'sqrt', 'rf__max_depth': 3, 'rf__bootstrap': False}
+# 46.714
+with open('out_rf2.csv', 'w', newline='') as csv_file:
+    final_rf.to_csv(path_or_buf=csv_file, index=False, header=False)

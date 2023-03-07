@@ -6,3 +6,4 @@ List of attempts (score as RMSE on the hidden test dataset):
 1) Michal's XGBRegressor attempt: 48.591
 2) Michal's RandomForestRegressor attempt: 46.968
 3) Michal's XGBRegressor 2nd attempt: 47.776
+4) Michal's RandomForestRegressor 2nd attempt: 46.714

@@ -227,7 +227,12 @@ def main(train_df_path, test_df_path,
 if __name__ == '__main__':
     train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\train.csv'
     test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\test.csv'
-    df = main(train_path, test_path)
+    df = main(train_path, train_path)
     df.drop(columns='host_id_freq', inplace=True)
-    1 + 1
-    df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\temp_test_data.csv')
+
+    # throw out non-numeric cols for now
+
+    non_num_cols = list(df.select_dtypes(include='object').columns)
+    df.drop(columns=non_num_cols, inplace=True)
+
+    df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\temp_train_data.csv')

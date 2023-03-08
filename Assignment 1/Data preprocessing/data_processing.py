@@ -165,9 +165,9 @@ def frequency_encode(train_df: pd.DataFrame, df_to_encode: pd.DataFrame, column,
     :return: Dataframe with chosen column replaced with frequency encoding. Inplace=True.
     """
     encoder = ce.CountEncoder(cols=column, normalize=normalize, min_group_size=min_proportion)
-    encoder.fit_transform(train_df)
+    encoder.fit_transform(train_df[column])
 
-    df_to_encode = encoder.transform(df_to_encode)
+    df_to_encode[column] = encoder.transform(df_to_encode[column])
     if new_column_name:
         df_to_encode.rename(columns={column: new_column_name}, inplace=True)
 
@@ -225,7 +225,9 @@ def main(train_df_path, test_df_path,
 
 
 if __name__ == '__main__':
-    absolute_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\train.csv'
-    df = main(absolute_path, absolute_path)
+    train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\train.csv'
+    test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\test.csv'
+    df = main(train_path, test_path)
+    df.drop(columns='host_id_freq', inplace=True)
     1 + 1
-    df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\temp_train_data.csv')
+    df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\temp_test_data.csv')

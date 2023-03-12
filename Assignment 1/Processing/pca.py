@@ -43,7 +43,10 @@ if __name__ == '__main__':
     train_dframe = read_data(train_path)
     test_dframe = read_data(test_path)
 
+    target = train_dframe['target']  # needed to re-attach towards train_data
+
     post_pca_test_df = apply_pca(train_dframe, test_dframe)
+    # post_pca_test_df['target'] = target  # use only when PCA-ing train data
 
     post_pca_test_df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment '
                             r'1\AABDW\Assignment 1\Data\PCA_temp_train_data.csv', index=False)

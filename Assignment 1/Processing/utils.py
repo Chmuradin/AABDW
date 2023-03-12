@@ -19,6 +19,15 @@ def get_unique_values_in_a_checklist(df, col_name):
     return checklist
 
 
+def read_data(path):  # apply this func to unprocessed data
+    df = pd.read_csv(path)  # or insert location of the train data
+
+    if 'property_sqfeet' in df.columns:
+        df.drop(columns='property_sqfeet', inplace=True)  # too many NAs
+
+    return df
+
+
 # https://postal-codes.cybo.com/belgium/antwerp/
 antwerp_zipcodes = [2000, 2018, 2020, 2030, 2040, 2050, 2060, 2100, 2140,
                     2150, 2170, 2530, 2600, 2610, 2660]

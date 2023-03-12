@@ -7,6 +7,7 @@ from frequency_encoding import frequency_encode
 from checklist_based import process_extra, process_property_amenities, process_host_verified
 from ordinal_transformations import process_booking_cancel_policy, process_host_response_time
 from unique_transformations import process_host_location, quick_fixes, quick_numerical_impute
+from pca import apply_pca
 
 
 def transform_data(train_df_path, test_df_path,
@@ -56,7 +57,7 @@ def transform_data(train_df_path, test_df_path,
 
     test_df.drop(columns='property_id', inplace=True)  # irrelevant data
     test_df.drop(columns=['host_nr_listings', 'host_nr_listings_total'], inplace=True)  # irrelevant
-    # 'host_nr_listings', 'host_nr_listings_total' is the exact same, and already covered by
+    # 'host_nr_listings', 'host_nr_listings_total' is the exact same, and already covered by 'host_id_freq'
 
     return test_df
 
@@ -89,7 +90,7 @@ if __name__ == '__main__':
                  r'1\AABDW\Assignment 1\Data\train.csv '
     test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment ' \
                 r'1\Data\test.csv '
-    dframe = main(train_path, train_path)
+    dframe = main(train_path, test_path)
 
     # throw out non-numeric cols for now
     non_num_cols = list(dframe.select_dtypes(include='object').columns)
@@ -98,3 +99,5 @@ if __name__ == '__main__':
     dframe.to_csv(
         r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment '
         r'1\Data\temp_test_data.csv', index=False)
+
+

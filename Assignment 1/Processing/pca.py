@@ -35,13 +35,13 @@ def apply_pca(train_df: pd.DataFrame, test_df: pd.DataFrame):  # no scree-plot, 
 
 
 if __name__ == '__main__':
-    train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v1_2023-03-22\train.csv'
-    test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v1_2023-03-22\test.csv'
+    train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v2_2023-03-22\train.csv'
+    test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v2_2023-03-22\test.csv'
 
     train_dframe = read_data2(train_path)
     test_dframe = read_data2(test_path)
 
-    property_id = train_dframe['property_id']
+    property_id = test_dframe['property_id']
     # target = train_dframe['target']  # needed to re-attach towards train_data
 
     train_dframe.drop(columns=['property_id'], inplace=True)  # , 'target'       (for train)
@@ -50,7 +50,7 @@ if __name__ == '__main__':
     post_pca_test_df = apply_pca(train_dframe, test_dframe)
     post_pca_test_df = pd.concat([property_id, post_pca_test_df], axis=1)  # , target       (for train)
 
-    post_pca_test_df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v1_2023-03-22\PCA_test.csv',
+    post_pca_test_df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v2_2023-03-22\PCA_test.csv',
                             index=False)
 
 

@@ -1,0 +1,34 @@
+base_v1_2023-03-22:
+      to_freq_encode=['host_id'],
+      to_onehot_encode=['property_type', 'property_room_type']
+
+base_v2_2023-03-22:
+      to_freq_encode=['host_id', 'property_type', 'property_room_type'],
+      to_onehot_encode=[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

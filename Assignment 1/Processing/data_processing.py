@@ -1,20 +1,21 @@
-import pandas as pd
-
 from utils import read_data
 
 from geospatial_processing import process_zipcodes
-from frequency_encoding import frequency_encode
+from categorical_encoding import process_categorical
 from checklist_based import process_extra, process_property_amenities, process_host_verified
 from ordinal_transformations import process_booking_cancel_policy, process_host_response_time
 from unique_transformations import process_host_location, quick_fixes, quick_numerical_impute
-from pca import apply_pca
+from time_processing import process_host_since, process_last_updated
 
 
 def transform_data(train_df_path, test_df_path,
-                   freq_encoding: list,
+                   freq_encoding: list, normalize_freq: bool,
+                   one_hot_encoding: list,
                    numerical_impute: list):  # keep in mind which processes need a train & test data
     """
 
+    :param normalize_freq: if True, then freq encoding, if false, count encoding
+    :param one_hot_encoding: categorical to one hot encode
     :param numerical_impute: quick and dirty imputation of numerical columns using median
     :param train_df_path: (relative) path towards the training set
     :param test_df_path: (relative) path towards the data to actually transform
@@ -33,14 +34,7 @@ def transform_data(train_df_path, test_df_path,
         train_df = quick_numerical_impute(train_df, column)
         test_df = quick_numerical_impute(test_df, column)
 
-    # frequency encodings, needs to be done rather early
-    for column in freq_encoding:
-        new_col_name = column + '_freq'
-        test_df = frequency_encode(train_df=train_df, df_to_encode=test_df, column=column,
-                                   normalize=True, new_column_name=new_col_name)
-    test_df = frequency_encode(train_df=train_df, df_to_encode=test_df, column='property_bed_type',
-                               normalize=True, new_column_name='bed_type_freq',
-                               min_proportion=0.05)  # ensures only real-bed vs others
+    test_df = process_categorical(train_df, test_df, freq_encoding, one_hot_encoding, normalize_freq)
 
     # unique transformations
     test_df = process_zipcodes(train_df, test_df)
@@ -55,18 +49,24 @@ def transform_data(train_df_path, test_df_path,
     test_df = process_host_response_time(test_df)
     test_df = process_booking_cancel_policy(test_df)
 
-    test_df.drop(columns='property_id', inplace=True)  # irrelevant data
-    test_df.drop(columns=['host_nr_listings', 'host_nr_listings_total'], inplace=True)  # irrelevant
+    # test_df.drop(columns=['host_nr_listings', 'host_nr_listings_total'], inplace=True)  # irrelevant
     # 'host_nr_listings', 'host_nr_listings_total' is the exact same, and already covered by 'host_id_freq'
+
+    # time transformations
+    test_df = process_host_since(test_df)
+    test_df = process_last_updated(test_df)
 
     return test_df
 
 
 def main(train_df_path, test_df_path,
-         to_freq_encode=None,
+         to_freq_encode=None, normalize_freq=True,
+         to_onehot_encode=None,
          to_numeric_impute=None):  # for sandbox usage, use './Data/train.csv' for both
 
-    if not to_freq_encode:  # just to supply default values
+    if type(to_freq_encode) == int:
+        to_freq_encode = []
+    elif not to_freq_encode:  # just to supply default values
         to_freq_encode = ['host_id', 'property_type', 'property_room_type']
 
     if not to_numeric_impute:  # default values
@@ -79,25 +79,34 @@ def main(train_df_path, test_df_path,
                              'reviews_location',
                              'reviews_value']
 
+    if not to_onehot_encode:
+        to_onehot_encode = []
+
     df = transform_data(train_df_path, test_df_path, freq_encoding=to_freq_encode,
+                        normalize_freq=normalize_freq,
+                        one_hot_encoding=to_onehot_encode,
                         numerical_impute=to_numeric_impute)
 
     return df
 
 
 if __name__ == '__main__':
-    train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment ' \
-                 r'1\AABDW\Assignment 1\Data\train.csv '
-    test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment ' \
-                r'1\Data\test.csv '
-    dframe = main(train_path, test_path)
+    from utils import train_path, test_path, data_path
+    from datetime import datetime
+
+    dframe = main(train_path, test_path,
+                  to_freq_encode=['host_id', 'property_type', 'property_room_type'],
+                  to_onehot_encode=[],
+                  to_numeric_impute=None)
 
     # throw out non-numeric cols for now
     non_num_cols = list(dframe.select_dtypes(include='object').columns)
     dframe.drop(columns=non_num_cols, inplace=True)
+    dframe.drop(columns=['property_scraped_at', 'host_nr_listings_total'],
+                inplace=True)  # why would we need this
 
-    dframe.to_csv(
-        r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment '
-        r'1\Data\temp_test_data.csv', index=False)
+    version = 2
+    file_name = rf'\base_test_v{version}_{str(datetime.now().date())}.csv'
 
-
+    dframe.to_csv(data_path + file_name,
+                  index=False)

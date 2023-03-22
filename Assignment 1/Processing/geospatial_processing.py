@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 from sklearn.cluster import DBSCAN
-from sklearn.neighbors import RadiusNeighborsClassifier
+import geopy
 
 from utils import brussels_zipcodes, antwerp_zipcodes
-from frequency_encoding import frequency_encode
+from categorical_encoding import frequency_encode
 
 import matplotlib
 
@@ -26,14 +26,7 @@ def process_zipcodes(train_df: pd.DataFrame, test_df: pd.DataFrame):
     1024 properties in Antwerp.
 
     """
-    # fix possible typos
-    train_df = fix_zipcode_typos(train_df)
-    test_df = fix_zipcode_typos(test_df)
-
-    # impute the missing zipcodes first
-    train_df = zipcode_impute(train_df, train_df)  # fix train data first
-    test_df = zipcode_impute(train_df, test_df)  # then we can fix the test data
-
+    # zipcodes already fixed
     # change zipcode from string to int
     train_df['property_zipcode'] = train_df['property_zipcode'].astype(int)
     test_df['property_zipcode'] = test_df['property_zipcode'].astype(int)
@@ -48,33 +41,9 @@ def process_zipcodes(train_df: pd.DataFrame, test_df: pd.DataFrame):
     test_df = frequency_encode(train_df=train_df, df_to_encode=test_df, column='property_zipcode',
                                normalize=True, new_column_name='zipcode_freq')
 
-    return test_df
-
-
-def zipcode_impute(train_df: pd.DataFrame, test_df: pd.DataFrame,
-                   radius=0.2):  # optimize later on, check optimal parameter
-    eps = radius / kms_per_radian
-
-    train_data = train_df[train_df['property_zipcode'].notna()]
-    indices_to_impute = test_df['property_zipcode'].isna().index
-    test_data = test_df.iloc[indices_to_impute]
-
-    s = RadiusNeighborsClassifier(radius=eps, weights='distance', metric='haversine', outlier_label='-99')
-    s.fit(np.radians(train_data.loc[:, ['property_lon', 'property_lat']]), train_data['property_zipcode'])
-
-    predictions = s.predict(np.radians(test_data.loc[:, ['property_lon', 'property_lat']]))
-
-    test_df.loc[indices_to_impute, 'property_zipcode'] = predictions
+    test_df.drop(columns=['property_lat', 'property_lon'], inplace=True)  # not needed
 
     return test_df
-
-
-def fix_zipcode_typos(df):
-    typo_indexes = df.index[df['property_zipcode'] == '11 20']  # typo
-    for idx in typo_indexes:
-        df.loc[idx, 'property_zipcode'] = '1120'
-
-    return df
 
 
 def cluster_long_lat(train_df: pd.DataFrame, test_df: pd.DataFrame,
@@ -117,3 +86,12 @@ def check_clustering(train_df: pd.DataFrame, test_df: pd.DataFrame,
 
     num_of_labels = len(set(labels))
     print(f'There are {num_of_labels} clusters.')
+
+
+def get_zipcode(geolocator, lat, lon):
+    location = geolocator.reverse((lat, lon))
+    return location.raw['address']['postcode']
+
+
+
+

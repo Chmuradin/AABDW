@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 
 def dumb_parse_text(text, sep_based_on=",", strip_based_on=" "):
@@ -20,6 +19,15 @@ def get_unique_values_in_a_checklist(df, col_name):
 
 
 def read_data(path):  # apply this func to unprocessed data
+    df = pd.read_csv(path, parse_dates=['property_scraped_at', 'host_since'], infer_datetime_format=True)  # or insert location of the train data
+
+    if 'property_sqfeet' in df.columns:
+        df.drop(columns='property_sqfeet', inplace=True)  # too many NAs
+
+    return df
+
+
+def read_data2(path):  # apply this func to unprocessed data
     df = pd.read_csv(path)  # or insert location of the train data
 
     if 'property_sqfeet' in df.columns:
@@ -186,3 +194,8 @@ amenities_list = ['24-hour check-in',
 # of re-weighing etc
 amenities_checklist = {key: 1 for key in amenities_list}
 amenities_checklist['no amenities'] = 14  # this is the mean value, robustness also considered
+
+train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\train.csv'
+test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\test.csv'
+data_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment ' \
+            r'1\Data'

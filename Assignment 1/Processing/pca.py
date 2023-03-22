@@ -2,7 +2,7 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
 
-from utils import read_data
+from utils import read_data2
 
 
 def apply_pca(train_df: pd.DataFrame, test_df: pd.DataFrame):  # no scree-plot, might do it later
@@ -35,21 +35,23 @@ def apply_pca(train_df: pd.DataFrame, test_df: pd.DataFrame):  # no scree-plot, 
 
 
 if __name__ == '__main__':
-    train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment ' \
-                 r'1\AABDW\Assignment 1\Data\temp_train_data.csv '
-    test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment ' \
-                r'1\Data\temp_train_data.csv '
+    train_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v1_2023-03-22\train.csv'
+    test_path = r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v1_2023-03-22\test.csv'
 
-    train_dframe = read_data(train_path)
-    test_dframe = read_data(test_path)
+    train_dframe = read_data2(train_path)
+    test_dframe = read_data2(test_path)
 
-    target = train_dframe['target']  # needed to re-attach towards train_data
+    property_id = train_dframe['property_id']
+    # target = train_dframe['target']  # needed to re-attach towards train_data
+
+    train_dframe.drop(columns=['property_id'], inplace=True)  # , 'target'       (for train)
+    test_dframe.drop(columns=['property_id'], inplace=True)   # , 'target'       (for train)
 
     post_pca_test_df = apply_pca(train_dframe, test_dframe)
-    # post_pca_test_df['target'] = target  # use only when PCA-ing train data
+    post_pca_test_df = pd.concat([property_id, post_pca_test_df], axis=1)  # , target       (for train)
 
-    post_pca_test_df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment '
-                            r'1\AABDW\Assignment 1\Data\PCA_temp_train_data.csv', index=False)
+    post_pca_test_df.to_csv(r'C:\Users\Lunky\Desktop\Math KULeuven\Big Data Platforms & Technologies\Assigment 1\AABDW\Assignment 1\Data\base_v1_2023-03-22\PCA_test.csv',
+                            index=False)
 
 
 

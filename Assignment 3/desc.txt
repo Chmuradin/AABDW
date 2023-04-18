@@ -1,0 +1,18 @@
+Construct a data set using the provided stream
+  Important: get started with this as soon as possible. We will discuss Spark and text mining in more detail later on, but you can already start gathering your data
+  Make sure to set up Spark using the instructions posted above
+ Construct a predictive model to predict the review target (1 = positive, 0 = negative) based on the review text
+        The stream is text-based with each line containing one message (one instance) formatted as a JSON dictionary
+        You can use extra data and libraries if you want, but this is not required
+        You are strongly encouraged to build your model using spark.ml (MLlib), but you can use scikit-learn as a fallback if things don't work out
+        The JSON dictionary also contains the app_id. You can use this to look up the game a review is about, but you don't need to use any additional features or data sources except given by the stream
+    Use your trained model to show you can make predictions as the stream comes in
+        I.e. show that you can connect to the data source, preprocess/featurize incoming messages, have your model predict the label, and show it, similar to spark_streaming_example_predicting.ipynb (but hopefully using a smarter, real predictive model)
+        This means that you'll need to look for a way to save and load your trained model
+        The goal is not to obtain a perfect predictive accuracy, but to make sure you can set up Spark and work in a streaming environment
+
+The third part of your lab report should contain:
+
+    Overview of the steps above, the source code of your programs, as well as the output after running them
+    Feel free to include screen shots or info on encountered challenges and how you dealt with them
+    Even if your solution is not fully working or not working correctly, you can still receive marks for this assignment based on what you tried and how you'd need to improve your end result

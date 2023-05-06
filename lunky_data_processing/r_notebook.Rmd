@@ -1,0 +1,99 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+train_df = read.csv('C:/Users/Lunky/Desktop/Math KULeuven/Big Data Platforms & Technologies/Assigment 1/AABDW/Assignment 1/Data/base_v1_2023-03-22/train.csv', header=TRUE)
+train_df = train_df[, -1]
+head(train_df)
+```
+
+Let's see the distribution of the target
+```{r}
+hist(train_df[,'target'])
+```
+And our RMSE was 46-47 ish, hahahah, modeling is hard. 
+```{r}
+sd(train_df[, 'target'])
+library(robustbase)
+mad(train_df[, 'target'])
+Qn(train_df[, 'target'], constant= 1 / (sqrt(2) * qnorm(5/8)) )
+```
+Let's see the correlations now. Hopelessly hard to read. Moreover, most of the
+'higher' correlations are between reviews (themselves) and booking_availability.
+
+Booking_availability being correlated makes sense, the more popular they are,
+the availabilities will decrease a lot, of course. Reviews are mostly imputed
+with the median, so that is also a bit untrustworthy.
+```{r}
+library(corrplot)
+corrplot(cor(train_df), type='lower', method='ellipse', tl.col='black',
+         tl.cex=0.75, cl.pos='r')
+```
+Above was hard to read. See:
+https://towardsdatascience.com/how-to-create-a-correlation-matrix-with-too-many-variables-309cc0c0a57
+Conclusion: Data is really random and not correlated towards target at all.
+The occasional high correlation is because of the way it was defined to begin with, or non-sensical things. This is really hard to predict.
+```{r}
+library(magrittr)
+library(dplyr)
+corr_simple <- function(data=df,sig=0.5){
+  #convert data to numeric in order to run correlations
+  #convert to factor first to keep the integrity of the data - each value will become a number rather than turn into NA
+  df_cor <- data %>% mutate_if(is.character, as.factor)
+  df_cor <- df_cor %>% mutate_if(is.factor, as.numeric)
+  #run a correlation and drop the insignificant ones
+  corr <- cor(df_cor)
+  #prepare to drop duplicates and correlations of 1     
+  corr[lower.tri(corr,diag=TRUE)] <- NA 
+  #drop perfect correlations
+  corr[corr == 1] <- NA 
+  #turn into a 3-column table
+  corr <- as.data.frame(as.table(corr))
+  #remove the NA values from above 
+  corr <- na.omit(corr) 
+  #select significant values  
+  corr <- subset(corr, abs(Freq) > sig) 
+  #sort by highest correlation
+  corr <- corr[order(-abs(corr$Freq)),] 
+  #print table
+  print(corr)
+  #turn corr back into matrix in order to plot with corrplot
+  mtx_corr <- reshape2::acast(corr, Var1~Var2, value.var="Freq")
+  
+  #plot correlations visually
+  corrplot(mtx_corr, is.corr=FALSE, tl.col="black", na.label=" ", tl.cex=0.5)
+}
+
+corr_simple(train_df, sig=0.25)
+```
+
+Quick scatterplot.
+```{r}
+par(mar=c(5.1, 4.1, 4.1, 2.1))
+pairs(train_df)  # no chance, plot too big
+```
+
+Let's see the outliers in target. A lot seems to be qualified as outliers.
+```{r}
+library(robustHD)
+data = train_df[,'target']
+adjbox(data)
+```
+Let's try PCA.
+```{r}
+library(MASS)
+library(rrcov)
+
+data = train_df[, -which(colnames(train_df) %in% c('target'))]
+pca_res = PcaClassic(data, scale=TRUE, k=ncol(train_df)-1)
+cumsum(pca_res$eigenvalues)/sum(pca_res$eigenvalues)
+
+screeplot(pca_res)
+```
+
+
+
+
+

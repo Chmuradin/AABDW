@@ -1,0 +1,7 @@
+The two datasets "outliers.csv" and "no_outliers.csv" are constructed from "train.csv", filtered based
+on whether or not the individual observations are flagged as outliers.
+
+Outlier flagging is done via constructing applying:
+IsolationForest(n_estimators=10000, bootstrap=True, n_jobs=-1, random_state=1), towards the dataset
+lunky_data_processing\Data\base_v1_2023-03-22\PCA_train.csv
+

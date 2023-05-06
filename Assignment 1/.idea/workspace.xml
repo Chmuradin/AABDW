@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e692f87f-471b-41d1-b3ef-f1a8122fd3f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment3/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/data_stream/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/data_json.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/data_stream/data_json.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/database3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/data_stream/database3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/spark_streaming_example_saving.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/data_stream/spark_streaming_example_saving.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PPiBHPACCNyJIuz3ph9I4mynSa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Lunky/Desktop/Math KULeuven/Big Data Platforms & Technologies/Assigment 1/AABDW"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e692f87f-471b-41d1-b3ef-f1a8122fd3f5" name="Changes" comment="" />
+      <created>1683364982854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683364982854</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

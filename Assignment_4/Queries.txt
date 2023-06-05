@@ -1,0 +1,57 @@
+--Streamers that tagged LGBTQ
+MATCH (s:streamer)-[r]-(t:tag)
+WHERE t.name =~ '.*LGBT.*'
+RETURN *
+
+--Streamers that tagged LGBTQ and play Hogwarts
+MATCH (s:streamer)-[]-(g:game),
+      (s:streamer)-[]-(t:tag)
+WHERE g.name =~ 'Hogwarts Legacy' AND t.name =~ '.*LGBT.*'
+RETURN count(DISTINCT s) as Hogwarts_LGBTQ_Streamers;
+
+--Streamers that tagged LGBTQ ans do NOT play Hogwarts
+MATCH (s:streamer)-[]-(g:game),
+      (s:streamer)-[]-(t:tag)
+WHERE NOT g.name =~ 'Hogwarts Legacy' AND t.name =~ '.*LGBT.*'
+RETURN count(DISTINCT s) as Other_Games_LGBTQ_Streamers;
+
+--Total number of streamers
+MATCH (s:streamer)
+RETURN count(DISTINCT s) as Streamers;
+
+--Average view count of streamers that play Hogwarts and tagged LGBTQ
+MATCH (s:streamer)-[r]-(g:game),
+      (s:streamer)-[r]-(t:tag)
+WHERE g.name =~ 'Hogwarts Legacy' AND t.name =~ '.*LGBT.*'
+RETURN avg(s.views_avg) as Hogwarts_LGBTQ_Avg_Viewers;
+
+--Average view count of LGBTQ streamers
+MATCH (s:streamer)-[r]-(t:tag)
+WHERE t.name =~ '.*LGBT.*'
+RETURN avg(s.views_avg) as LGBTQ_Avg_Viewers;
+
+--Average view count of Hogwarts streamers
+MATCH (s:streamer)-[r]-(g:game)
+WHERE g.name =~ 'Hogwarts Legacy'
+RETURN avg(s.views_avg) as Hogwarts_Avg_Viewers;
+
+-----Query to get the Elden RIng data for the graph, all streamers and the LGBTQ nodes and its edges that connect to -----Elden streamers
+MATCH (g:game)-[r1]-(s:streamer)
+WHERE g.name =~ 'Elden Ring'
+OPTIONAL MATCH (s)-[r2]-(t:tag)
+WHERE t.name =~ '.*LGBT.*'
+RETURN *
+
+--Average number of streams of the streamers that played Hogwarts and tagged LGBTQ
+MATCH (s:streamer)-[]-(g:game),
+      (s:streamer)-[]-(t:tag)
+WHERE g.name =~ 'Hogwarts Legacy' AND t.name =~ '.*LGBT.*'
+RETURN avg(s.nr_streams) as Hogwarts_LGBTQ_Avg_Streams;
+
+---Count of squads that have streamers that play Elden ring and tagged LGBTQ
+MATCH (s:streamer)-[]-(sq:squad),
+      (s:streamer)-[]-(g:game),
+      (s:streamer)-[]-(t:tag)
+WHERE g.name =~ 'Elden Ring' AND t.name =~ '.*LGBT.*'
+RETURN count(DISTINCT sq) as Hogwarts_LGBTQ_Squads
+---

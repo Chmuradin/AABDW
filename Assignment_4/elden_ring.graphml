@@ -1,0 +1,4192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d17" for="edge" attr.name="edge_type" attr.type="string" />
+  <key id="d16" for="node" attr.name="tag_label" attr.type="string" />
+  <key id="d15" for="node" attr.name="streamer_label" attr.type="string" />
+  <key id="d14" for="node" attr.name="views_min" attr.type="long" />
+  <key id="d13" for="node" attr.name="views_max" attr.type="long" />
+  <key id="d12" for="node" attr.name="views_avg" attr.type="long" />
+  <key id="d11" for="node" attr.name="nr_streams" attr.type="long" />
+  <key id="d10" for="node" attr.name="last_title" attr.type="string" />
+  <key id="d9" for="node" attr.name="last_seen" attr.type="string" />
+  <key id="d8" for="node" attr.name="followers" attr.type="string" />
+  <key id="d7" for="node" attr.name="first_seen" attr.type="string" />
+  <key id="d6" for="node" attr.name="description" attr.type="string" />
+  <key id="d5" for="node" attr.name="game_label" attr.type="string" />
+  <key id="d4" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d3" for="node" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="url" attr.type="string" />
+  <key id="d1" for="node" attr.name="name" attr.type="string" />
+  <key id="d0" for="node" attr.name="id" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="84">
+      <data key="d0">Elden Ring</data>
+      <data key="d1">Elden Ring</data>
+      <data key="d2">https://www.twitch.tv/directory/game/Elden%20Ring</data>
+      <data key="d3">game</data>
+      <data key="d4">game</data>
+      <data key="d5">game</data>
+    </node>
+    <node id="37699">
+      <data key="d6">Blaming my bad gameplay on anything other than myself 🌚🌸</data>
+      <data key="d7">2022-12-14 15:00:43.599798</data>
+      <data key="d8">348252</data>
+      <data key="d0">berticuss</data>
+      <data key="d9">2023-03-04 14:54:12.792833</data>
+      <data key="d10">♡ Streamer is a more skilled gamer than chat ;) ♡ !Lightfall #Sponsored #BungieCreator !discord !socials !youtube !PObox</data>
+      <data key="d1">berticuss</data>
+      <data key="d11">39</data>
+      <data key="d12">1120</data>
+      <data key="d13">1787</data>
+      <data key="d14">620</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37730">
+      <data key="d6">おにやです。ここで余生を過ごします。</data>
+      <data key="d7">2022-12-14 15:03:58.329566</data>
+      <data key="d8">230207</data>
+      <data key="d0">oniyadayo</data>
+      <data key="d9">2023-04-10 16:22:40.462478</data>
+      <data key="d10">アケコンにてストリートファイター５極めし者</data>
+      <data key="d1">oniyadayo</data>
+      <data key="d11">54</data>
+      <data key="d12">7322</data>
+      <data key="d13">18252</data>
+      <data key="d14">2186</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37747">
+      <data key="d6">Ich zocke ab und zu mal eine Runde und ihr könnt mir dabei zuschauen.</data>
+      <data key="d7">2023-01-04 14:18:20.507374</data>
+      <data key="d8">225608</data>
+      <data key="d0">kayzahr</data>
+      <data key="d9">2023-03-11 23:59:02.257826</data>
+      <data key="d10">CDL WATCHPARTY + NARUTO PLAYMOBIL GIVEAWAY SPÄTER !prime | !CyberGhostVPN !brille !joule !amd | #WERBUNG hmmNice</data>
+      <data key="d1">kayzahr</data>
+      <data key="d11">73</data>
+      <data key="d12">2181</data>
+      <data key="d13">4925</data>
+      <data key="d14">570</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37780">
+      <data key="d6">High Quality Gameplay &amp; Music - Join the fun!</data>
+      <data key="d7">2022-12-14 15:09:12.124933</data>
+      <data key="d8">150748</data>
+      <data key="d0">nugiyen</data>
+      <data key="d9">2023-03-11 16:49:30.088211</data>
+      <data key="d10">HC 💀 NEW BUILD SO I CAN GAME WITH THE BOYS</data>
+      <data key="d1">nugiyen</data>
+      <data key="d11">26</data>
+      <data key="d12">903</data>
+      <data key="d13">1314</data>
+      <data key="d14">578</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37817">
+      <data key="d6">Fextralife is a gaming community &amp; game news source fueled by a team of dedicated gamers! We play Action, Adventure and RPGs, some Survival &amp; FPS too!. Elden Ring, Baldur's Gate 3 hype! Check out our 200+ Wikis, reviews on Youtube &amp; more! This week STREAMS: Elden Ring &amp; LOST ARK</data>
+      <data key="d7">2023-01-04 01:21:35.744611</data>
+      <data key="d8">1479552</data>
+      <data key="d0">fextralife</data>
+      <data key="d9">2023-04-24 17:42:12.864116</data>
+      <data key="d10">[!DROPS] Dead Island 2 with CAS!</data>
+      <data key="d1">fextralife</data>
+      <data key="d11">259</data>
+      <data key="d12">14148</data>
+      <data key="d13">42508</data>
+      <data key="d14">4935</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37845">
+      <data key="d6" />
+      <data key="d7">2023-01-03 22:33:52.451188</data>
+      <data key="d8">353640</data>
+      <data key="d0">c_a_k_e</data>
+      <data key="d9">2023-03-11 14:52:24.919677</data>
+      <data key="d10">ДОТАГОЛИЯ ФИНАЛ @goodoq @nastjadd @f1ashko @browjey @mistafaker !event</data>
+      <data key="d1">c_a_k_e</data>
+      <data key="d11">107</data>
+      <data key="d12">4048</data>
+      <data key="d13">8618</data>
+      <data key="d14">1121</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37851">
+      <data key="d6">Twitch Partner - Content Creator Blizzard_Ent for France &amp; MultiGaming. Gamer, geek et passionné. Tu es le bienvenu dans la team, discute avec nous dans le tchat et amuse toi avec notre belle commu interactive! :D  Contact : zoltan.tvshow@gmail.com</data>
+      <data key="d7">2022-12-14 15:16:34.895044</data>
+      <data key="d8">92751</data>
+      <data key="d0">zoltan</data>
+      <data key="d9">2023-01-26 14:20:05.461796</data>
+      <data key="d10">Talk &amp; WoW &amp; Forspoken | Nouveau Studio de stream/QG pour février | !RS !Hellofres</data>
+      <data key="d1">zoltan</data>
+      <data key="d11">2</data>
+      <data key="d12">458</data>
+      <data key="d13">733</data>
+      <data key="d14">183</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37876">
+      <data key="d6">1999 11 27 23歳 使用している楽曲 BGMhttps://www.youtube.com/c/NoCopyrightSounds/videoshttps://www.youtube.com/channel/UCfLovs3hldJ496uPizAgYaA スコラボライセンスについてhttps://license.sucolab.jp/0187aeb6-2b3d-50b2-1671-14ca173f3c92</data>
+      <data key="d7">2022-12-14 08:11:34.876451</data>
+      <data key="d8">487281</data>
+      <data key="d0">jasper7se</data>
+      <data key="d9">2023-04-24 16:35:20.503938</data>
+      <data key="d10">さてと、成り上がりますか。</data>
+      <data key="d1">jasper7se</data>
+      <data key="d11">68</data>
+      <data key="d12">17441</data>
+      <data key="d13">39305</data>
+      <data key="d14">4986</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="37881">
+      <data key="d6" />
+      <data key="d7">2022-12-14 08:12:05.269262</data>
+      <data key="d8">247550</data>
+      <data key="d0">yamatonjp</data>
+      <data key="d9">2023-03-11 13:16:25.412560</data>
+      <data key="d10">APEX SOLORANK #4</data>
+      <data key="d1">yamatonjp</data>
+      <data key="d11">91</data>
+      <data key="d12">1404</data>
+      <data key="d13">2804</data>
+      <data key="d14">691</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38112">
+      <data key="d6">Bin eigentlich voll ok.</data>
+      <data key="d7">2022-12-13 21:25:00.649544</data>
+      <data key="d8">79779</data>
+      <data key="d0">divi</data>
+      <data key="d9">2023-02-25 14:41:00.127568</data>
+      <data key="d10">Sons of the Forest | Ab 17 Uhr: !octopathtraveler2 | @ThisDivi #werbung</data>
+      <data key="d1">divi</data>
+      <data key="d11">12</data>
+      <data key="d12">916</data>
+      <data key="d13">1186</data>
+      <data key="d14">522</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38152">
+      <data key="d6">SHE'S A BOT 💌 PRO : avamind.prod@gmail.com </data>
+      <data key="d7">2022-12-19 16:16:59.586243</data>
+      <data key="d8">184440</data>
+      <data key="d0">avamind</data>
+      <data key="d9">2023-03-11 16:41:27.260879</data>
+      <data key="d10">[36] Talk &amp; React || !music !subonly !loading</data>
+      <data key="d1">avamind</data>
+      <data key="d11">40</data>
+      <data key="d12">1844</data>
+      <data key="d13">2979</data>
+      <data key="d14">975</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38194">
+      <data key="d6">Art, Game, Entertain.....</data>
+      <data key="d7">2022-12-14 09:27:04.670214</data>
+      <data key="d8">89926</data>
+      <data key="d0">fakeuni</data>
+      <data key="d9">2023-03-02 09:30:45.309010</data>
+      <data key="d10">🔴 𝗗𝗥𝗢𝗣𝗦 𝗢𝗡 | !Submit &lt;-- Your Clips | !Socials</data>
+      <data key="d1">fakeuni</data>
+      <data key="d11">16</data>
+      <data key="d12">800</data>
+      <data key="d13">2354</data>
+      <data key="d14">25</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38254">
+      <data key="d6">BreaK is a former pro PUBG player for TSM &amp; has been a cornerstone of the Battle Royale genre since it's inception. Now playing a variety of games, his unfiltered stream style has built him one of the most tightly knit communities on Twitch. Click here to watch and chat!</data>
+      <data key="d7">2022-12-14 15:58:11.649198</data>
+      <data key="d8">303772</data>
+      <data key="d0">break</data>
+      <data key="d9">2023-01-31 16:49:56.846234</data>
+      <data key="d10">UK | THE BEST FREELANCER | New !4090 Build from !pcs | !Nord</data>
+      <data key="d1">break</data>
+      <data key="d11">35</data>
+      <data key="d12">1417</data>
+      <data key="d13">9582</data>
+      <data key="d14">359</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38279">
+      <data key="d6">I'm the guy who hates video games but plays them for a living. I also play Bloodborne, but that's not a video game. Bloodborne is life.</data>
+      <data key="d7">2022-12-13 21:47:20.181871</data>
+      <data key="d8">134864</data>
+      <data key="d0">heyzeusherestoast</data>
+      <data key="d9">2023-03-05 18:59:06.739688</data>
+      <data key="d10">heyZeus, General of Blood</data>
+      <data key="d1">heyzeusherestoast</data>
+      <data key="d11">7</data>
+      <data key="d12">869</data>
+      <data key="d13">985</data>
+      <data key="d14">726</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38416">
+      <data key="d6">Bonjwa | Good Game. Have Fun.</data>
+      <data key="d7">2022-12-13 22:03:45.914138</data>
+      <data key="d8">227006</data>
+      <data key="d0">bonjwa</data>
+      <data key="d9">2023-04-04 20:42:59.805204</data>
+      <data key="d10">Welche Streams schaut Matteo privat</data>
+      <data key="d1">bonjwa</data>
+      <data key="d11">210</data>
+      <data key="d12">4822</data>
+      <data key="d13">15312</data>
+      <data key="d14">1059</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38555">
+      <data key="d6">Loading Bio...</data>
+      <data key="d7">2022-12-13 22:20:42.624520</data>
+      <data key="d8">764968</data>
+      <data key="d0">enviosity</data>
+      <data key="d9">2023-03-04 19:02:57.382448</data>
+      <data key="d10">[NEW DROPS] IT'S MY BIRTHDAY TODAY ⁽ᵗᵉᶜʰⁿᶦᶜᵃˡˡʸ ᶦᵗ'ˢ ᵐʸ ʰᵃˡᶠ⁻ᵇᶦʳᵗʰᵈᵃʸ ᵇᵘᵗ ʷʰᵒ ʷᶦˡˡ ᵉᵛᵉⁿ ʳᵉᵃᵈ ᵗʰᵉ ᵗᶦᵗˡᵉ ᵃᵐ ᴵ ʳᶦᵍʰᵗˀ⁾ | !HelloFresh | DAY 888</data>
+      <data key="d1">enviosity</data>
+      <data key="d11">54</data>
+      <data key="d12">3709</data>
+      <data key="d13">7093</data>
+      <data key="d14">1069</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38598">
+      <data key="d6">Kept you waiting, huh?</data>
+      <data key="d7">2022-12-13 22:26:56.657494</data>
+      <data key="d8">24360</data>
+      <data key="d0">timofey</data>
+      <data key="d9">2023-03-02 13:41:34.386588</data>
+      <data key="d10">просмотровый + дипрок в 18:00 !tg !boosty</data>
+      <data key="d1">timofey</data>
+      <data key="d11">25</data>
+      <data key="d12">952</data>
+      <data key="d13">2866</data>
+      <data key="d14">380</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38720">
+      <data key="d6">absolutly no lizardman | totally human</data>
+      <data key="d7">2022-12-14 16:47:16.006635</data>
+      <data key="d8">47634</data>
+      <data key="d0">dinossindgeil</data>
+      <data key="d9">2023-03-05 16:56:02.212389</data>
+      <data key="d10">!GodRun 3 - LEVEL 1 into !Bingo League hosted by @captain_domo | !Bingo | !playlist</data>
+      <data key="d1">dinossindgeil</data>
+      <data key="d11">15</data>
+      <data key="d12">938</data>
+      <data key="d13">1313</data>
+      <data key="d14">758</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38721">
+      <data key="d6">Play hard games. Make dumb jokes.</data>
+      <data key="d7">2022-12-14 16:47:22.356339</data>
+      <data key="d8">195482</data>
+      <data key="d0">barbarousking</data>
+      <data key="d9">2023-03-11 22:13:19.385521</data>
+      <data key="d10">First time playing Link Between Worlds - Zelda Marathon</data>
+      <data key="d1">barbarousking</data>
+      <data key="d11">137</data>
+      <data key="d12">4034</data>
+      <data key="d13">6352</data>
+      <data key="d14">2045</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38755">
+      <data key="d6">Souls Speedrunner</data>
+      <data key="d7">2022-12-14 16:50:52.747696</data>
+      <data key="d8">554178</data>
+      <data key="d0">distortion2</data>
+      <data key="d9">2023-04-23 15:43:50.948558</data>
+      <data key="d10">Resident Evil 4 NG Pro No Merchant Routing</data>
+      <data key="d1">distortion2</data>
+      <data key="d11">184</data>
+      <data key="d12">6697</data>
+      <data key="d13">14317</data>
+      <data key="d14">488</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38899">
+      <data key="d6">I'm Vinny of Vinesauce and I focus on variety streaming. I don't have a strict schedule and stream a few times a week, but you can expect full playthroughs, classic games, randomizers, corruptions, trash games and weird/forgotten games. More prerecorded videos are on my youtube.</data>
+      <data key="d7">2023-01-04 03:18:37.723737</data>
+      <data key="d8">561596</data>
+      <data key="d0">vinesauce</data>
+      <data key="d9">2023-04-24 06:51:25.106588</data>
+      <data key="d10">Demakes</data>
+      <data key="d1">vinesauce</data>
+      <data key="d11">46</data>
+      <data key="d12">7433</data>
+      <data key="d13">12532</data>
+      <data key="d14">3706</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38916">
+      <data key="d6">Riggler</data>
+      <data key="d7">2022-12-14 10:40:58.059051</data>
+      <data key="d8">178877</data>
+      <data key="d0">russel</data>
+      <data key="d9">2023-03-06 06:25:30.258402</data>
+      <data key="d10">LUNA IS HERE &amp; WATCHING LAST OF US | Weighathon day 23/90 | !weighathon !diet !reddit !rimeranch</data>
+      <data key="d1">russel</data>
+      <data key="d11">31</data>
+      <data key="d12">1050</data>
+      <data key="d13">4131</data>
+      <data key="d14">255</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38929">
+      <data key="d6">Hey everyone! my name is Christian aka Noko  *whichever you prefer*! I have been streaming for a little over 9+ years, I play on PC and mostly play shooters. I try to bring the most energy, hype, and overall fun to every stream that I have as well as bringing high tier gameplay! LETS GO!!</data>
+      <data key="d7">2023-01-06 04:43:27.735786</data>
+      <data key="d8">366719</data>
+      <data key="d0">noko</data>
+      <data key="d9">2023-03-06 01:08:07.989237</data>
+      <data key="d10">PRED GRINDDD EZZZ!!! !YT</data>
+      <data key="d1">noko</data>
+      <data key="d11">23</data>
+      <data key="d12">969</data>
+      <data key="d13">3132</data>
+      <data key="d14">423</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="38998">
+      <data key="d6">I play Dark Souls and ramble. Sometimes, simultaneously for your entertainment.</data>
+      <data key="d7">2023-02-01 03:09:04.307051</data>
+      <data key="d8">26724</data>
+      <data key="d0">saintriot</data>
+      <data key="d9">2023-02-25 06:39:34.777356</data>
+      <data key="d10">Invading | Player Covenant Charity !event Tomorrow</data>
+      <data key="d1">saintriot</data>
+      <data key="d11">7</data>
+      <data key="d12">673</data>
+      <data key="d13">810</data>
+      <data key="d14">612</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39057">
+      <data key="d6">【 VSHOJO VARIETY STREAMER VTUBER 】 【⚡ THE CYBER PUNK  ⚡ 】. I have an amazing community, stop by, say hi! Hope you enjoy watching and have fun!</data>
+      <data key="d7">2023-01-04 21:14:15.699493</data>
+      <data key="d8">398620</data>
+      <data key="d0">zentreya</data>
+      <data key="d9">2023-03-11 22:33:36.556556</data>
+      <data key="d10">🚨 BIG UPDATE - YOU GOTTA SEE THIS HOLY CRAP - COLLAB w @geega + @mikamelatika + @camila | !bits !TTS !advgg</data>
+      <data key="d1">zentreya</data>
+      <data key="d11">64</data>
+      <data key="d12">4036</data>
+      <data key="d13">13042</data>
+      <data key="d14">1510</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39139">
+      <data key="d6">DOMINANT FORCE OF NATURE</data>
+      <data key="d7">2023-01-04 02:39:19.641639</data>
+      <data key="d8">591476</data>
+      <data key="d0">supertf</data>
+      <data key="d9">2023-04-24 09:02:27.427852</data>
+      <data key="d10">maybe shorter stream maybe not all I know is dominance is approaching rapidly, Run Now.</data>
+      <data key="d1">supertf</data>
+      <data key="d11">184</data>
+      <data key="d12">5452</data>
+      <data key="d13">11313</data>
+      <data key="d14">1601</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39154">
+      <data key="d6">I like to eat nerds rope.</data>
+      <data key="d7">2022-12-14 11:05:13.387109</data>
+      <data key="d8">548813</data>
+      <data key="d0">uberhaxornova</data>
+      <data key="d9">2023-04-08 08:07:22.307484</data>
+      <data key="d10">i literally have no clue</data>
+      <data key="d1">uberhaxornova</data>
+      <data key="d11">64</data>
+      <data key="d12">3137</data>
+      <data key="d13">5329</data>
+      <data key="d14">1858</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39191">
+      <data key="d6">Simultaneously the best and worst Souls player you've ever seen</data>
+      <data key="d7">2023-01-04 03:32:50.238088</data>
+      <data key="d8">126840</data>
+      <data key="d0">lilaggy</data>
+      <data key="d9">2023-03-05 07:04:57.317119</data>
+      <data key="d10">she wo on my long till my dynasty's fallen | !streamerawards</data>
+      <data key="d1">lilaggy</data>
+      <data key="d11">53</data>
+      <data key="d12">1664</data>
+      <data key="d13">3067</data>
+      <data key="d14">757</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39198">
+      <data key="d6">I pretend to be other people. Follow me and give me money now. Business Email: moosebrotherstreams@gmail.com</data>
+      <data key="d7">2022-12-20 02:28:42.414658</data>
+      <data key="d8">38415</data>
+      <data key="d0">moosebrother</data>
+      <data key="d9">2023-03-11 11:22:41.197958</data>
+      <data key="d10">NoPixel WL | Bloom | Back to The Bay | !cop !factor</data>
+      <data key="d1">moosebrother</data>
+      <data key="d11">57</data>
+      <data key="d12">1179</data>
+      <data key="d13">2426</data>
+      <data key="d14">173</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39250">
+      <data key="d6">969 AD. ENG/JPN VTuber 🩸☠️ I’m an undying lord that makes music and goofs off. See ya in the castle ❤️ よろしくお願いしますArt and Rigging by DyaRikku</data>
+      <data key="d7">2022-12-20 01:28:53.959616</data>
+      <data key="d8">141777</data>
+      <data key="d0">lordaethelstan</data>
+      <data key="d9">2023-04-17 03:08:50.688634</data>
+      <data key="d10">THE DARKNESS CALLS BOSS RUNS WITH DEATH SQUAD (face cam so pc don't nuke) | !links !supps</data>
+      <data key="d1">lordaethelstan</data>
+      <data key="d11">73</data>
+      <data key="d12">2985</data>
+      <data key="d13">8469</data>
+      <data key="d14">1577</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39252">
+      <data key="d6">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ </data>
+      <data key="d7">2023-01-04 06:23:01.895526</data>
+      <data key="d8">828417</data>
+      <data key="d0">tectone</data>
+      <data key="d9">2023-03-06 10:28:48.047187</data>
+      <data key="d10">Playing Fortnight W/ Ash Ketchum, Bobby hill, Ang from avatar @cinna</data>
+      <data key="d1">tectone</data>
+      <data key="d11">67</data>
+      <data key="d12">3215</data>
+      <data key="d13">6684</data>
+      <data key="d14">1343</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39262">
+      <data key="d6">Encontraras de todo tipo de juegos, no soy pro pero me divierto jugando!! gracias por darte la vuelta, espero te diviertas y pases un buen rato!!! Mail: contactodelt4@gmail.com </data>
+      <data key="d7">2022-12-19 21:07:20.125120</data>
+      <data key="d8">159182</data>
+      <data key="d0">delt4forc3</data>
+      <data key="d9">2023-03-06 08:21:54.651092</data>
+      <data key="d10">Hoy hay gaming latino</data>
+      <data key="d1">delt4forc3</data>
+      <data key="d11">85</data>
+      <data key="d12">924</data>
+      <data key="d13">4171</data>
+      <data key="d14">439</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39386">
+      <data key="d7">2023-01-09 10:43:37.253452</data>
+      <data key="d8">63760</data>
+      <data key="d0">9qoq</data>
+      <data key="d9">2023-03-11 16:56:08.142027</data>
+      <data key="d10">🐶瘋狗娛樂🐶 今天是什麼day !YT !VPN</data>
+      <data key="d1">9qoq</data>
+      <data key="d11">61</data>
+      <data key="d12">707</data>
+      <data key="d13">1320</data>
+      <data key="d14">411</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39418">
+      <data key="d6">ぼちぼちゲームやりますTwitter:muramako_2525</data>
+      <data key="d7">2022-12-20 02:37:16.317486</data>
+      <data key="d8">48434</data>
+      <data key="d0">murakamisuigun</data>
+      <data key="d9">2023-03-11 08:25:10.930680</data>
+      <data key="d10">マリオメーカー</data>
+      <data key="d1">murakamisuigun</data>
+      <data key="d11">92</data>
+      <data key="d12">1115</data>
+      <data key="d13">1640</data>
+      <data key="d14">768</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39622">
+      <data key="d6">Speedrunner, challenge runner, good audio.</data>
+      <data key="d7">2022-12-14 11:53:18.379364</data>
+      <data key="d8">9285</data>
+      <data key="d0">yojo</data>
+      <data key="d9">2023-02-27 10:55:38.610956</data>
+      <data key="d10">Any% Glitchless Speedruns with Death's Poker !NEWVID</data>
+      <data key="d1">yojo</data>
+      <data key="d11">3</data>
+      <data key="d12">497</data>
+      <data key="d13">694</data>
+      <data key="d14">361</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39623">
+      <data key="d6">Uwu u found my chatty watty</data>
+      <data key="d7">2022-12-14 11:53:24.857835</data>
+      <data key="d8">24340</data>
+      <data key="d0">ainrun</data>
+      <data key="d9">2023-03-06 12:22:54.923632</data>
+      <data key="d10">LVL 1 ALL-BOSSES (165) !REGIONLOCK NO-UPGRADES | !REGION !ExpressVPN #ad</data>
+      <data key="d1">ainrun</data>
+      <data key="d11">60</data>
+      <data key="d12">841</data>
+      <data key="d13">1311</data>
+      <data key="d14">430</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39943">
+      <data key="d6">From the darkest depths of horror to the most light-heart adventures in gaming, welcome to The Nest and join The Conspiracy today.</data>
+      <data key="d7">2022-12-14 12:26:28.778048</data>
+      <data key="d8">28295</data>
+      <data key="d0">ravenhart</data>
+      <data key="d9">2022-12-14 12:26:28.778048</data>
+      <data key="d10">🔴ᴸᶦᵛᵉ Elden Ring - Faith Build (PS5) !ˢᵘᵇ !ᵐᵉʳᶜʰ</data>
+      <data key="d1">ravenhart</data>
+      <data key="d11">1</data>
+      <data key="d12">63</data>
+      <data key="d13">63</data>
+      <data key="d14">63</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39959">
+      <data key="d6">Contact PRO: mynthos@20ty.gg</data>
+      <data key="d7">2022-12-14 12:28:08.484785</data>
+      <data key="d8">248739</data>
+      <data key="d0">mynthos</data>
+      <data key="d9">2023-04-23 11:21:22.720238</data>
+      <data key="d10">⭕ LA BOUCLE</data>
+      <data key="d1">mynthos</data>
+      <data key="d11">90</data>
+      <data key="d12">3490</data>
+      <data key="d13">7185</data>
+      <data key="d14">679</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="39964">
+      <data key="d6">I speedrun Sekiro and Elden Ring. I set world records. </data>
+      <data key="d7">2023-01-16 09:05:17.565132</data>
+      <data key="d8">11090</data>
+      <data key="d0">mitchriz</data>
+      <data key="d9">2023-03-01 09:57:45.985177</data>
+      <data key="d10">Trying Out Ishin | !factor !maid</data>
+      <data key="d1">mitchriz</data>
+      <data key="d11">6</data>
+      <data key="d12">586</data>
+      <data key="d13">782</data>
+      <data key="d14">512</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40060">
+      <data key="d6">Crazy Canuck, Lover of Coffee, Player of Soulsborne. In short, a big nerd.      Pfp: TheIrishNeko.                                                                                                               Emotes and Banner: Manic ; https://twitter.com/ManicDrawer</data>
+      <data key="d7">2022-12-14 12:38:31.990873</data>
+      <data key="d8">4455</data>
+      <data key="d0">thedashingsaint</data>
+      <data key="d9">2022-12-20 10:37:33.116039</data>
+      <data key="d10">Invasions | Red Man Itching for a Cuppa | !era</data>
+      <data key="d1">thedashingsaint</data>
+      <data key="d11">2</data>
+      <data key="d12">43</data>
+      <data key="d13">61</data>
+      <data key="d14">25</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40100">
+      <data key="d6">As long as we're having fun - Business: stormen@kymamedia.com - Content Creator for @HorizonUnion</data>
+      <data key="d7">2022-12-14 12:42:42.334063</data>
+      <data key="d8">747454</data>
+      <data key="d0">stormen</data>
+      <data key="d9">2023-03-06 12:35:09.016874</data>
+      <data key="d10">we gaming // !PCS - !socials</data>
+      <data key="d1">stormen</data>
+      <data key="d11">61</data>
+      <data key="d12">1393</data>
+      <data key="d13">2053</data>
+      <data key="d14">709</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40107">
+      <data key="d6">Uhhh...</data>
+      <data key="d7">2022-12-14 12:43:26.152832</data>
+      <data key="d8">17501</data>
+      <data key="d0">mimika</data>
+      <data key="d9">2022-12-14 12:43:26.152832</data>
+      <data key="d10">First time GOTY player</data>
+      <data key="d1">mimika</data>
+      <data key="d11">1</data>
+      <data key="d12">53</data>
+      <data key="d13">53</data>
+      <data key="d14">53</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40129">
+      <data key="d6">the girl that laughs at her own jokes</data>
+      <data key="d7">2023-01-05 03:11:31.257054</data>
+      <data key="d8">84152</data>
+      <data key="d0">kiva</data>
+      <data key="d9">2023-03-11 05:01:59.665380</data>
+      <data key="d10">Andi | NoPixel</data>
+      <data key="d1">kiva</data>
+      <data key="d11">43</data>
+      <data key="d12">805</data>
+      <data key="d13">1605</data>
+      <data key="d14">369</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40297">
+      <data key="d6">Twitch Ambassador | Soulsborne challenge runner, speedrunner, and no hit runner! Also I love pizza. Sup? haha Business Email: kwitty@ggtalentgroup.com</data>
+      <data key="d7">2023-02-03 19:40:53.867630</data>
+      <data key="d8">69361</data>
+      <data key="d0">kwitty23</data>
+      <data key="d9">2023-02-06 22:13:32.189405</data>
+      <data key="d10">NG+434-435 Bandit Knife/DSGA Weapon Art only | All bosses/DLC | !youtube | !hyperx</data>
+      <data key="d1">kwitty23</data>
+      <data key="d11">4</data>
+      <data key="d12">2335</data>
+      <data key="d13">2727</data>
+      <data key="d14">1810</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40311">
+      <data key="d6">Официальный Twitch-канал «Игромании»</data>
+      <data key="d7">2023-01-06 14:33:30.763466</data>
+      <data key="d8">178559</data>
+      <data key="d0">igromania</data>
+      <data key="d9">2023-03-05 12:23:50.733625</data>
+      <data key="d10">Elden Ring | Александр Skantip</data>
+      <data key="d1">igromania</data>
+      <data key="d11">42</data>
+      <data key="d12">894</data>
+      <data key="d13">1509</data>
+      <data key="d14">485</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40336">
+      <data key="d6">Darksouls 3 Duelist,  tournament caster and Fight club host</data>
+      <data key="d7">2022-12-14 13:07:17.779299</data>
+      <data key="d8">2234</data>
+      <data key="d0">endathelion</data>
+      <data key="d9">2022-12-14 13:07:17.779299</data>
+      <data key="d10">Early morning late night gaming (PC)</data>
+      <data key="d1">endathelion</data>
+      <data key="d11">1</data>
+      <data key="d12">56</data>
+      <data key="d13">56</data>
+      <data key="d14">56</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40457">
+      <data key="d6">i like f00dz and pwning n00bz</data>
+      <data key="d7">2022-12-14 13:20:00.833798</data>
+      <data key="d8">759410</data>
+      <data key="d0">shiphtur</data>
+      <data key="d9">2023-03-06 12:04:22.972793</data>
+      <data key="d10">where am i !everyplate</data>
+      <data key="d1">shiphtur</data>
+      <data key="d11">53</data>
+      <data key="d12">1114</data>
+      <data key="d13">1775</data>
+      <data key="d14">467</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40651">
+      <data key="d6">Hi, my name is Shizukou and I'm a Man o' War Jellyfish. It's nice to meet you!</data>
+      <data key="d7">2022-12-14 13:40:12.322755</data>
+      <data key="d8">44117</data>
+      <data key="d0">shizukou</data>
+      <data key="d9">2022-12-14 20:05:17.198557</data>
+      <data key="d10">🎐REDEBUT UNCAPPED SUBATHON🎐 DAY 6!! ELDEN BINGE TIME【!drops !tip !goals】</data>
+      <data key="d1">shizukou</data>
+      <data key="d11">2</data>
+      <data key="d12">218</data>
+      <data key="d13">280</data>
+      <data key="d14">156</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40653">
+      <data key="d6">시청자 와 소통하며 각종게임 (몬스터헌터 시리즈 와 닌텐도 스위치, PS5, PC 등) 신작, 대작 게임을 방송하는 채널 입니다</data>
+      <data key="d7">2022-12-14 13:40:25.115261</data>
+      <data key="d8">41414</data>
+      <data key="d0">dragon3652</data>
+      <data key="d9">2023-03-11 10:58:43.568510</data>
+      <data key="d10">와룡 PVP 전문가 파밍도 같이?</data>
+      <data key="d1">dragon3652</data>
+      <data key="d11">70</data>
+      <data key="d12">557</data>
+      <data key="d13">793</data>
+      <data key="d14">325</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40892">
+      <data key="d6" />
+      <data key="d7">2022-12-14 14:05:21.133010</data>
+      <data key="d8">77060</data>
+      <data key="d0">rekvizit8bit</data>
+      <data key="d9">2023-01-09 14:40:00.639545</data>
+      <data key="d10">Рандомайзер врагов и предметов!</data>
+      <data key="d1">rekvizit8bit</data>
+      <data key="d11">2</data>
+      <data key="d12">523</data>
+      <data key="d13">654</data>
+      <data key="d14">393</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="40910">
+      <data key="d6">ゲームをこよなく愛しています</data>
+      <data key="d7">2023-01-11 14:56:54.955560</data>
+      <data key="d8">115134</data>
+      <data key="d0">yoshinama222</data>
+      <data key="d9">2023-03-28 09:12:26.861663</data>
+      <data key="d10">マジでマスター目指してる男 16時半頃にハンゼウ合流予定</data>
+      <data key="d1">yoshinama222</data>
+      <data key="d11">16</data>
+      <data key="d12">1784</data>
+      <data key="d13">3819</data>
+      <data key="d14">1300</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41045">
+      <data key="d6">レトロから最新のゲームまで、クソゲーから神ゲーまで様々なゲームを19時から0時まで週5～6で配信。</data>
+      <data key="d7">2022-12-14 14:21:10.907236</data>
+      <data key="d8">15192</data>
+      <data key="d0">junkman_5555</data>
+      <data key="d9">2023-03-11 15:08:33.801101</data>
+      <data key="d10">【死にゲー】ELDEN RING #27 ※チアー禁止</data>
+      <data key="d1">junkman_5555</data>
+      <data key="d11">74</data>
+      <data key="d12">1331</data>
+      <data key="d13">1938</data>
+      <data key="d14">851</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41141">
+      <data key="d6">Hiya! My name is Andrea or Andy for short and I have been gaming for the past 20 years! I love cosplay and have been making my own costumes for 10 years! I focus on complex SFX cosplay transformations and having fun with the fam, so come hang! </data>
+      <data key="d7">2022-12-14 14:31:14.474320</data>
+      <data key="d8">48747</data>
+      <data key="d0">andyraecosplay</data>
+      <data key="d9">2022-12-14 14:31:14.474320</data>
+      <data key="d10">Cozy Chats and Games!!! First Playthrough!! Let's Beat Fire Giant!!!</data>
+      <data key="d1">andyraecosplay</data>
+      <data key="d11">1</data>
+      <data key="d12">187</data>
+      <data key="d13">187</data>
+      <data key="d14">187</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41330">
+      <data key="d6">소울류는 뒷전인 종합 게임 스트리머 | 방송 시간 : 매일 오후 7시 반 시작 (매주 월, 목 휴방)</data>
+      <data key="d7">2022-12-18 16:24:17.860419</data>
+      <data key="d8">45040</data>
+      <data key="d0">eclipia</data>
+      <data key="d9">2023-03-03 14:52:12.676492</data>
+      <data key="d10">[이클리피아] 와룡 엔딩 오늘 볼까?</data>
+      <data key="d1">eclipia</data>
+      <data key="d11">9</data>
+      <data key="d12">749</data>
+      <data key="d13">947</data>
+      <data key="d14">362</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41452">
+      <data key="d6">Nessa live tem RPG de turno, tem Action RPG, tem MMORPG e até uns MOBA e Battle Royale de vez em quando.</data>
+      <data key="d7">2022-12-19 16:40:06.914782</data>
+      <data key="d8">1493</data>
+      <data key="d0">bakuchannel</data>
+      <data key="d9">2022-12-19 16:40:06.914782</data>
+      <data key="d10">O que a gente não faz por um anel... - Dia 9 ❗pix ❗harem ❗discord ❗sr</data>
+      <data key="d1">bakuchannel</data>
+      <data key="d11">1</data>
+      <data key="d12">13</data>
+      <data key="d13">13</data>
+      <data key="d14">13</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41501">
+      <data key="d6">Um gamer apaixonado por desafios, jogos em pixel art, sidescroolers e metroidvanias. Powerlifter nas horas vagas.</data>
+      <data key="d7">2022-12-14 21:31:44.179690</data>
+      <data key="d8">3105</data>
+      <data key="d0">max1delife</data>
+      <data key="d9">2022-12-20 01:59:15.395129</data>
+      <data key="d10">#RERUN - !pixels = CONFIRA SEUS PONTOS PRA LOJA - XSX - ELDEN RING - JOGO DO ANO 2022 - #4</data>
+      <data key="d1">max1delife</data>
+      <data key="d11">2</data>
+      <data key="d12">24</data>
+      <data key="d13">31</data>
+      <data key="d14">18</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41717">
+      <data key="d6">lol</data>
+      <data key="d7">2023-01-05 13:11:02.116946</data>
+      <data key="d8">872938</data>
+      <data key="d0">onscreen</data>
+      <data key="d9">2023-03-11 16:29:06.220506</data>
+      <data key="d10">🔴BETA KEY GIVEAWAYS🔴 🔸 @onscreen !LogitechG !PCS</data>
+      <data key="d1">onscreen</data>
+      <data key="d11">35</data>
+      <data key="d12">1303</data>
+      <data key="d13">2522</data>
+      <data key="d14">656</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="41720">
+      <data key="d6">Hej :)</data>
+      <data key="d7">2023-01-04 19:52:52.194453</data>
+      <data key="d8">63025</data>
+      <data key="d0">slayproxx</data>
+      <data key="d9">2023-03-11 23:55:15.193925</data>
+      <data key="d10">😮😮😮😮</data>
+      <data key="d1">slayproxx</data>
+      <data key="d11">106</data>
+      <data key="d12">1459</data>
+      <data key="d13">3550</data>
+      <data key="d14">763</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42017">
+      <data key="d6">A variety streamer, with a penchant for souls-like games, but you'll find all kinds of content here. If dry, self-debasing humour and  sarcastic comments are your thing then you'll fit in here juuuuuuust fine.</data>
+      <data key="d7">2022-12-19 15:15:51.566531</data>
+      <data key="d8">499</data>
+      <data key="d0">amomusofyourtime</data>
+      <data key="d9">2022-12-19 15:15:51.566531</data>
+      <data key="d10">Are we speedrunners now?!....not quite.</data>
+      <data key="d1">amomusofyourtime</data>
+      <data key="d11">1</data>
+      <data key="d12">19</data>
+      <data key="d13">19</data>
+      <data key="d14">19</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42222">
+      <data key="d6">schrodingerlee@unitedtalent.com</data>
+      <data key="d7">2023-01-04 02:26:00.648909</data>
+      <data key="d8">900704</data>
+      <data key="d0">schrodingerlee</data>
+      <data key="d9">2023-03-11 16:51:58.970401</data>
+      <data key="d10">😉 goodmorning, ranked. hows ur day</data>
+      <data key="d1">schrodingerlee</data>
+      <data key="d11">63</data>
+      <data key="d12">1980</data>
+      <data key="d13">5431</data>
+      <data key="d14">957</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42403">
+      <data key="d6">L'animation du tryhard.</data>
+      <data key="d7">2022-12-14 23:02:54.838129</data>
+      <data key="d8">116211</data>
+      <data key="d0">shisheyu_mayamoto</data>
+      <data key="d9">2023-03-06 00:44:48.547791</data>
+      <data key="d10">[439/637] ISEK DU KEEPER DU DIMONCH</data>
+      <data key="d1">shisheyu_mayamoto</data>
+      <data key="d11">68</data>
+      <data key="d12">4799</data>
+      <data key="d13">9547</data>
+      <data key="d14">1631</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42434">
+      <data key="d6">Sabéis de que se alimentan las sombras? De sombrasada.</data>
+      <data key="d7">2023-01-05 12:47:10.505775</data>
+      <data key="d8">177172</data>
+      <data key="d0">evangelion0</data>
+      <data key="d9">2023-03-11 13:03:28.244712</data>
+      <data key="d10">Sorpresa. Un rato de charla porque me apetese</data>
+      <data key="d1">evangelion0</data>
+      <data key="d11">64</data>
+      <data key="d12">908</data>
+      <data key="d13">1492</data>
+      <data key="d14">605</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42481">
+      <data key="d6">Hi! I am cata and I speedrun Dark Souls and Elden Ring. Watch me break world records, one by one! Business inquiries: catalystz.biz@gmail.com</data>
+      <data key="d7">2022-12-19 18:47:35.929674</data>
+      <data key="d8">34253</data>
+      <data key="d0">catalystz</data>
+      <data key="d9">2022-12-19 18:47:35.929674</data>
+      <data key="d10">All Remembrances Glitchless Speedruns for WR!</data>
+      <data key="d1">catalystz</data>
+      <data key="d11">1</data>
+      <data key="d12">259</data>
+      <data key="d13">259</data>
+      <data key="d14">259</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42635">
+      <data key="d6">Hey, I'm Bri! I am a full time streamer and challenge runner of the FromSoftware games. Welcome in! </data>
+      <data key="d7">2022-12-14 23:26:26.642015</data>
+      <data key="d8">14113</data>
+      <data key="d0">blueberrybrioche</data>
+      <data key="d9">2022-12-19 17:37:51.560907</data>
+      <data key="d10">No Leveling, Killing All 165 !Bosses || Chapter 10: Blood for the (mini) Blood God</data>
+      <data key="d1">blueberrybrioche</data>
+      <data key="d11">2</data>
+      <data key="d12">137</data>
+      <data key="d13">221</data>
+      <data key="d14">54</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42755">
+      <data key="d6">I like killing hosts</data>
+      <data key="d7">2022-12-14 23:38:33.879074</data>
+      <data key="d8">1292</data>
+      <data key="d0">cursedeternia</data>
+      <data key="d9">2022-12-14 23:38:33.879074</data>
+      <data key="d10">Mohg.</data>
+      <data key="d1">cursedeternia</data>
+      <data key="d11">1</data>
+      <data key="d12">39</data>
+      <data key="d13">39</data>
+      <data key="d14">39</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42874">
+      <data key="d6">AM YOKAI SKUNK (NOT SMELY)</data>
+      <data key="d7">2022-12-14 23:50:37.599646</data>
+      <data key="d8">41307</data>
+      <data key="d0">kyokeru</data>
+      <data key="d9">2023-03-06 12:43:01.355547</data>
+      <data key="d10">🥱SKUNKU🥱CHILLU🥱WITA🥱UUU🥱MAKING🥱YOUR🥱VIBES🥱BETTER🥱</data>
+      <data key="d1">kyokeru</data>
+      <data key="d11">45</data>
+      <data key="d12">896</data>
+      <data key="d13">1500</data>
+      <data key="d14">143</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="42877">
+      <data key="d6">Chill variety stream with focus on single player games. Entertainment for the chatter and the lurker. I like to do crazy challenge runs, especially in Elden Ring. Won Soulslike Streamer of the Year! Also, I have a Shiba Inu. </data>
+      <data key="d7">2023-01-04 15:52:14.576545</data>
+      <data key="d8">226437</data>
+      <data key="d0">missmikkaa</data>
+      <data key="d9">2023-03-11 22:26:04.369668</data>
+      <data key="d10">[12h Special] Resident Evil 2 [Hardcore] | Watching @qtcinderella Streamer !Awards Later | @MissMikkaa on socials</data>
+      <data key="d1">missmikkaa</data>
+      <data key="d11">83</data>
+      <data key="d12">4107</data>
+      <data key="d13">11490</data>
+      <data key="d14">2106</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43111">
+      <data key="d6">Mediocre gamer</data>
+      <data key="d7">2022-12-15 00:14:41.823351</data>
+      <data key="d8">50781</data>
+      <data key="d0">ginomachino</data>
+      <data key="d9">2023-03-04 04:35:04.461076</data>
+      <data key="d10">Last Minute Bingo Practice || !newvid !ExpressVPN #ad</data>
+      <data key="d1">ginomachino</data>
+      <data key="d11">24</data>
+      <data key="d12">1182</data>
+      <data key="d13">1767</data>
+      <data key="d14">650</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43280">
+      <data key="d6">Дангар, известный также как DangarC4, Platinumman (в молодости Платиновый Мальчик), тот самый чувак что играет на геймпаде в шутеры и всегда читает чатик, шутник, брутал и основатель движения за защиту прав геймеров на твиче! Входим в топ 1% стримеров по доте!</data>
+      <data key="d7">2022-12-15 00:31:40.401009</data>
+      <data key="d8">96592</data>
+      <data key="d0">dangar</data>
+      <data key="d9">2022-12-19 20:37:06.644403</data>
+      <data key="d10">Старое колечко. Первое прохождение. Стрим десятый</data>
+      <data key="d1">dangar</data>
+      <data key="d11">2</data>
+      <data key="d12">480</data>
+      <data key="d13">609</data>
+      <data key="d14">352</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43342">
+      <data key="d6" />
+      <data key="d7">2022-12-15 00:37:53.903903</data>
+      <data key="d8">437518</data>
+      <data key="d0">erobb221</data>
+      <data key="d9">2023-04-22 07:16:19.621465</data>
+      <data key="d10">! @Tenzinniznet @Russel</data>
+      <data key="d1">erobb221</data>
+      <data key="d11">88</data>
+      <data key="d12">5427</data>
+      <data key="d13">11696</data>
+      <data key="d14">2313</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43393">
+      <data key="d6">RPGs, Roguelikes, and much much more.</data>
+      <data key="d7">2023-01-05 18:22:04.093178</data>
+      <data key="d8">426104</data>
+      <data key="d0">lobosjr</data>
+      <data key="d9">2023-03-10 23:15:27.050995</data>
+      <data key="d10">Incantation Only ER Day 2 | !pc</data>
+      <data key="d1">lobosjr</data>
+      <data key="d11">65</data>
+      <data key="d12">1765</data>
+      <data key="d13">3392</data>
+      <data key="d14">1058</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43593">
+      <data key="d6">Ster is actively seeking new and lucrative ways to acquire street cred. He has done so on youtube, with TF2, Overwatch, and now creating a D&amp;D-like streamed show called 'The Myriad' played on Thursdays.</data>
+      <data key="d7">2023-01-09 00:36:50.836643</data>
+      <data key="d8">339315</data>
+      <data key="d0">ster</data>
+      <data key="d9">2023-03-05 00:25:52.492743</data>
+      <data key="d10">P Ranks Ultrakill</data>
+      <data key="d1">ster</data>
+      <data key="d11">40</data>
+      <data key="d12">1286</data>
+      <data key="d13">1982</data>
+      <data key="d14">624</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43662">
+      <data key="d6">마음만큼은 언제나 닥린이</data>
+      <data key="d7">2022-12-15 01:10:05.556944</data>
+      <data key="d8">2102</data>
+      <data key="d0">nyaha_</data>
+      <data key="d9">2022-12-15 01:10:05.556944</data>
+      <data key="d10">엘든링 올보스 노히트런 Ver 1.08 새로운 빌드짜기</data>
+      <data key="d1">nyaha_</data>
+      <data key="d11">1</data>
+      <data key="d12">25</data>
+      <data key="d13">25</data>
+      <data key="d14">25</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43663">
+      <data key="d6">I love Souls Games</data>
+      <data key="d7">2022-12-15 01:10:11.806371</data>
+      <data key="d8">14173</data>
+      <data key="d0">napstarf</data>
+      <data key="d9">2022-12-20 02:44:55.447733</data>
+      <data key="d10">Creating Santa!</data>
+      <data key="d1">napstarf</data>
+      <data key="d11">2</data>
+      <data key="d12">234</data>
+      <data key="d13">237</data>
+      <data key="d14">232</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43676">
+      <data key="d6">｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆</data>
+      <data key="d7">2023-01-04 21:26:17.858736</data>
+      <data key="d8">598520</data>
+      <data key="d0">littleragergirl</data>
+      <data key="d9">2023-03-11 21:49:14.864773</data>
+      <data key="d10">✧✩❀ buenas vibras ❀✩✧</data>
+      <data key="d1">littleragergirl</data>
+      <data key="d11">46</data>
+      <data key="d12">3058</data>
+      <data key="d13">10232</data>
+      <data key="d14">859</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43867">
+      <data key="d6">No Soy G4G</data>
+      <data key="d7">2023-01-04 18:20:53.618286</data>
+      <data key="d8">431359</data>
+      <data key="d0">revenant</data>
+      <data key="d9">2023-03-11 20:28:05.988749</data>
+      <data key="d10">DIABLO 3 HARDCORE TEMPORADA | Beta Diablo 4 el 17 :D</data>
+      <data key="d1">revenant</data>
+      <data key="d11">61</data>
+      <data key="d12">2966</data>
+      <data key="d13">5397</data>
+      <data key="d14">1739</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="43894">
+      <data key="d6">Hello, I'm Emily (she/her). I play games while making them as difficult as possible.</data>
+      <data key="d7">2022-12-15 01:33:27.084222</data>
+      <data key="d8">29128</data>
+      <data key="d0">shoujo</data>
+      <data key="d9">2023-03-06 02:20:24.210912</data>
+      <data key="d10">MARIO?!?! CASUAL?!?!</data>
+      <data key="d1">shoujo</data>
+      <data key="d11">2</data>
+      <data key="d12">433</data>
+      <data key="d13">676</data>
+      <data key="d14">190</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="8015">
+      <data key="d0">LGBTQIAPlus</data>
+      <data key="d1">LGBTQIAPlus</data>
+      <data key="d2">https://www.twitch.tv/directory/all/tags/LGBTQIAPlus</data>
+      <data key="d3">tag</data>
+      <data key="d4">tag</data>
+      <data key="d16">tag</data>
+    </node>
+    <node id="43964">
+      <data key="d6">www.facebook.com/esubaherdyn www.youtube.com/mikidusot</data>
+      <data key="d7">2022-12-15 01:40:30.767993</data>
+      <data key="d8">713436</data>
+      <data key="d0">herdyn</data>
+      <data key="d9">2023-03-11 22:27:02.764594</data>
+      <data key="d10">Diskuze a klipy do WoLe ⚔ ️ ⚔ ️ 22:XX Contraband Police | !clipy !archive</data>
+      <data key="d1">herdyn</data>
+      <data key="d11">68</data>
+      <data key="d12">1904</data>
+      <data key="d13">6091</data>
+      <data key="d14">645</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="44074">
+      <data key="d6">Widely known as the 'Big British Dollar-Store Jason Momoa'</data>
+      <data key="d7">2022-12-15 01:51:39.936663</data>
+      <data key="d8">317143</data>
+      <data key="d0">strippin</data>
+      <data key="d9">2023-04-19 14:31:39.395846</data>
+      <data key="d10">Uncapped Subathon Day 12</data>
+      <data key="d1">strippin</data>
+      <data key="d11">101</data>
+      <data key="d12">2442</data>
+      <data key="d13">4821</data>
+      <data key="d14">1287</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="44562">
+      <data key="d6">Deusa do seu destino em repouso fazendo lives de jogos diferenciados. Chega aí e deixa eu dar em cima de vocês... digo digo digo, bater um papo com vocês :D</data>
+      <data key="d7">2022-12-15 02:40:48.623680</data>
+      <data key="d8">2192</data>
+      <data key="d0">skys_kawaii</data>
+      <data key="d9">2022-12-20 05:12:38.583036</data>
+      <data key="d10">[+18] Subathon Especial Final do ano (Dia 10) !subathon !pokestart !discord !sorteio !pix</data>
+      <data key="d1">skys_kawaii</data>
+      <data key="d11">2</data>
+      <data key="d12">26</data>
+      <data key="d13">30</data>
+      <data key="d14">23</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="8828">
+      <data key="d0">LGBT</data>
+      <data key="d1">LGBT</data>
+      <data key="d2">https://www.twitch.tv/directory/all/tags/LGBT</data>
+      <data key="d3">tag</data>
+      <data key="d4">tag</data>
+      <data key="d16">tag</data>
+    </node>
+    <node id="44955">
+      <data key="d6">Mike of the Desert, sul Web.</data>
+      <data key="d7">2023-01-03 22:24:53.984091</data>
+      <data key="d8">248869</data>
+      <data key="d0">sabaku_no_sutoriimaa</data>
+      <data key="d9">2023-03-10 22:55:41.070249</data>
+      <data key="d10">Pokémon: Bianco e Nero, Run Veterana by Cydonia #9</data>
+      <data key="d1">sabaku_no_sutoriimaa</data>
+      <data key="d11">62</data>
+      <data key="d12">2113</data>
+      <data key="d13">4745</data>
+      <data key="d14">919</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="45176">
+      <data key="d6">¡Hola! Bienvenidos al refugio. </data>
+      <data key="d7">2022-12-15 03:42:37.575308</data>
+      <data key="d8">563029</data>
+      <data key="d0">silithur</data>
+      <data key="d9">2023-03-10 23:20:45.804397</data>
+      <data key="d10">🔴 NO ES UN JUEGO NFT ES FREE TO PLAY DEJADME 🔴</data>
+      <data key="d1">silithur</data>
+      <data key="d11">59</data>
+      <data key="d12">1357</data>
+      <data key="d13">6440</data>
+      <data key="d14">804</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="45237">
+      <data key="d6">Radiant Valorant turbo nerd, situational grass toucher, anime connoisseur. Statistically speaking, all subs are good looking </data>
+      <data key="d7">2022-12-15 03:48:46.617530</data>
+      <data key="d8">263623</data>
+      <data key="d0">jollztv</data>
+      <data key="d9">2023-03-11 03:17:13.612960</data>
+      <data key="d10">(!freecoaching) 🌎 ELDING DONG RING 🌎 !newvlog 🌎 !gaming 🌎 !valoranttracker 🌎 !everyplate</data>
+      <data key="d1">jollztv</data>
+      <data key="d11">66</data>
+      <data key="d12">1143</data>
+      <data key="d13">2191</data>
+      <data key="d14">453</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="45520">
+      <data key="d6">Streamer de variedades: Todo dia da semana on as 14:00</data>
+      <data key="d7">2022-12-15 04:17:15.478114</data>
+      <data key="d8">1615746</data>
+      <data key="d0">rakin</data>
+      <data key="d9">2023-03-11 03:09:24.710189</data>
+      <data key="d10">PARTY GAMES:</data>
+      <data key="d1">rakin</data>
+      <data key="d11">90</data>
+      <data key="d12">2573</data>
+      <data key="d13">5389</data>
+      <data key="d14">1119</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="45965">
+      <data key="d6">Meu nome? Minha idade? De onde eu sou? Do que faço lives? Se eu faço sexo? Descubra!</data>
+      <data key="d7">2022-12-15 05:02:10.084568</data>
+      <data key="d8">270101</data>
+      <data key="d0">yulla</data>
+      <data key="d9">2023-03-06 06:45:51.760473</data>
+      <data key="d10">MIBR Yulla 🔥 | !bybit !tipspace !caixapostal !vods !comunidade</data>
+      <data key="d1">yulla</data>
+      <data key="d11">57</data>
+      <data key="d12">1228</data>
+      <data key="d13">3404</data>
+      <data key="d14">299</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="46440">
+      <data key="d7">2023-02-01 04:43:32.902894</data>
+      <data key="d0">lolblanxz</data>
+      <data key="d9">2023-03-06 07:04:35.221704</data>
+      <data key="d10">I (LOLBLANXZ) GOT WR 58:02 Any% Glitchless Speedruns | !tts enabled for resubs/donos/bits !jonsnow !wrer !bop !yt</data>
+      <data key="d1">lolblanxz</data>
+      <data key="d11">8</data>
+      <data key="d12">755</data>
+      <data key="d13">1201</data>
+      <data key="d14">303</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="46560">
+      <data key="d6">Hey everyone my name is Thor! I play video games with steering wheels, donkey kong bongos, feet, and other unconventional controllers. I have a passion for teaching others and I'm a Professional Photographer outside of Twitch. - Business Email: media@thormungandr.com</data>
+      <data key="d7">2022-12-15 06:02:05.035895</data>
+      <data key="d8">8937</data>
+      <data key="d0">thormungandr</data>
+      <data key="d9">2022-12-15 06:02:05.035895</data>
+      <data key="d10">[STEERING WHEEL] This maidenless driver didn't ask for directions |All Bosses| No Summons |!throne|!tip|!socials|!discord|!throne</data>
+      <data key="d1">thormungandr</data>
+      <data key="d11">1</data>
+      <data key="d12">113</data>
+      <data key="d13">113</data>
+      <data key="d14">113</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="9296">
+      <data key="d0">LGBTQIAplus</data>
+      <data key="d1">LGBTQIAplus</data>
+      <data key="d2">https://www.twitch.tv/directory/all/tags/LGBTQIAplus</data>
+      <data key="d3">tag</data>
+      <data key="d4">tag</data>
+      <data key="d16">tag</data>
+    </node>
+    <node id="46660">
+      <data key="d6">se contar hasta patata</data>
+      <data key="d7">2023-01-03 22:23:32.354955</data>
+      <data key="d8">14017799</data>
+      <data key="d0">rubius</data>
+      <data key="d9">2023-04-24 23:04:50.131083</data>
+      <data key="d10">💥MEGA CONTENIDO💥SKIP LEGEND💥PROBANDO EL NUEVO STREET FIGHTER 6💥SUPERANDO MI RECORD EN MM💥HOY NO HAY EXCUSAS💥</data>
+      <data key="d1">rubius</data>
+      <data key="d11">141</data>
+      <data key="d12">28850</data>
+      <data key="d13">144471</data>
+      <data key="d14">13246</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="46677">
+      <data key="d6">Just hanging out, you?</data>
+      <data key="d7">2023-01-04 23:10:33.567859</data>
+      <data key="d8">1312571</data>
+      <data key="d0">jerma985</data>
+      <data key="d9">2023-04-20 06:42:45.499354</data>
+      <data key="d10">There are Enemies in Our Rift Room! monkaGIGAftRobertDowneyJr</data>
+      <data key="d1">jerma985</data>
+      <data key="d11">87</data>
+      <data key="d12">17383</data>
+      <data key="d13">26870</data>
+      <data key="d14">11266</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="46971">
+      <data key="d6">Welcome to the stream! I enjoy streaming Soulsborne and Metroidvania style games, but I will play other things from time to time. Thank you for coming by the stream, and I hope you have a good time! Don't forget to follow if you enjoy my content.</data>
+      <data key="d7">2022-12-19 02:55:35.980785</data>
+      <data key="d8">3127</data>
+      <data key="d0">nazralla</data>
+      <data key="d9">2022-12-19 02:55:35.980785</data>
+      <data key="d10">Elden Ring RL1 All Remembrances No Summons | Ep. 35 | !youtube</data>
+      <data key="d1">nazralla</data>
+      <data key="d11">1</data>
+      <data key="d12">75</data>
+      <data key="d13">75</data>
+      <data key="d14">75</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="47053">
+      <data key="d6" />
+      <data key="d7">2023-01-17 04:59:47.726024</data>
+      <data key="d8">9478</data>
+      <data key="d0">snowboy_man</data>
+      <data key="d9">2023-01-31 06:31:11.575130</data>
+      <data key="d10">#9 Elden Ring - топоры имба, щит не нужон!</data>
+      <data key="d1">snowboy_man</data>
+      <data key="d11">7</data>
+      <data key="d12">1289</data>
+      <data key="d13">2105</data>
+      <data key="d14">499</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="47649">
+      <data key="d7">2022-12-19 09:21:29.527257</data>
+      <data key="d0">surskity</data>
+      <data key="d9">2023-01-30 12:46:05.509301</data>
+      <data key="d10">NARAKA NA PEGADA !tipspace !discord !loja</data>
+      <data key="d1">surskity</data>
+      <data key="d11">61</data>
+      <data key="d12">1497</data>
+      <data key="d13">2816</data>
+      <data key="d14">659</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="47657">
+      <data key="d6">she/her 🏳️‍⚧️🏳️‍🌈 I am a bad red lady</data>
+      <data key="d7">2022-12-19 00:44:56.783749</data>
+      <data key="d8">903</data>
+      <data key="d0">marisa_nyaa</data>
+      <data key="d9">2022-12-19 00:44:56.783749</data>
+      <data key="d10">Level Through PVP - Arena Later | PC !rl !pw</data>
+      <data key="d1">marisa_nyaa</data>
+      <data key="d11">1</data>
+      <data key="d12">20</data>
+      <data key="d13">20</data>
+      <data key="d14">20</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="47808">
+      <data key="d6">I'm Cat, I do cat things, what ever that means. Streaming 4-5 different games a week and basking in the comfy cozy vibes with a dash of chaos. Welcome! GLHF 💜☕</data>
+      <data key="d7">2022-12-15 08:07:35.373830</data>
+      <data key="d8">26368</data>
+      <data key="d0">seecatplay</data>
+      <data key="d9">2023-02-26 06:56:49.504979</data>
+      <data key="d10">Finishing Elden Ring 🥹 Come get comfy ☕️💜 !noflash !first</data>
+      <data key="d1">seecatplay</data>
+      <data key="d11">5</data>
+      <data key="d12">534</data>
+      <data key="d13">622</data>
+      <data key="d14">303</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48315">
+      <data key="d6">♕ Unofficial King of Dorkshire: home to all dorks ♕ Variety streamer known for weeby shenanigans.  Mental Health Advocate &amp; all around supporter of good vibes. If you read this, you're a dork.</data>
+      <data key="d7">2022-12-15 08:58:30.144759</data>
+      <data key="d8">2908</data>
+      <data key="d0">hitsuga</data>
+      <data key="d9">2022-12-15 08:58:30.144759</data>
+      <data key="d10">Maleniwho? - 2400+ "Deaths" yikes! | Surely she dies tonight</data>
+      <data key="d1">hitsuga</data>
+      <data key="d11">1</data>
+      <data key="d12">18</data>
+      <data key="d13">18</data>
+      <data key="d14">18</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48352">
+      <data key="d6">She/Her. HIya, I'm Sadia! 18+ ♥ 98% Soulsborne, 2% Variety ♥ (DS2 over DS1) My hobbies include bullying the lords of Cinder, ripping and tearing, and demanding free things from Miyazaki ♥ Trans Rights Are Human Rights ♥ Biz contact: thesadiamoon@gmail.com </data>
+      <data key="d7">2022-12-15 09:02:12.758046</data>
+      <data key="d8">3425</data>
+      <data key="d0">sadia_moon</data>
+      <data key="d9">2022-12-15 09:02:12.758046</data>
+      <data key="d10">♥ Arenas with Marisa! | New Witcher 3 Playthrough Later! ♥ !Marisa !tts !rl</data>
+      <data key="d1">sadia_moon</data>
+      <data key="d11">1</data>
+      <data key="d12">102</data>
+      <data key="d13">102</data>
+      <data key="d14">102</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48646">
+      <data key="d6">Criken's been a variety streamer on Twitch for 10+ years if you can believe that, wow! We mostly do roleplay and weird games over here but also experiment with audience interactive content! </data>
+      <data key="d7">2023-01-05 04:51:16.385055</data>
+      <data key="d8">336515</data>
+      <data key="d0">criken</data>
+      <data key="d9">2023-03-11 04:53:16.135535</data>
+      <data key="d10">Who up playin with they lil chat worm? - Twitch Plays Worms w/ Charborg</data>
+      <data key="d1">criken</data>
+      <data key="d11">52</data>
+      <data key="d12">2211</data>
+      <data key="d13">3734</data>
+      <data key="d14">1001</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48744">
+      <data key="d6">Co-Founder/Owner of OTK and Starforge Systems</data>
+      <data key="d7">2023-01-04 02:36:17.057784</data>
+      <data key="d8">1185428</data>
+      <data key="d0">esfandtv</data>
+      <data key="d9">2023-04-16 22:50:32.794788</data>
+      <data key="d10">🥊 CREATOR CLASH RED CARPET POST SHOW GALA !starforge !extension !schedule</data>
+      <data key="d1">esfandtv</data>
+      <data key="d11">82</data>
+      <data key="d12">4477</data>
+      <data key="d13">24137</data>
+      <data key="d14">1158</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48844">
+      <data key="d6">I play/speedrun games like Elden Ring and stuff :) Current WR holder for Insaniquarium 😎</data>
+      <data key="d7">2023-01-05 06:57:33.618086</data>
+      <data key="d8">14460</data>
+      <data key="d0">star0chris</data>
+      <data key="d9">2023-02-04 06:15:39.356126</data>
+      <data key="d10">Rando race with friends :) !Multi</data>
+      <data key="d1">star0chris</data>
+      <data key="d11">26</data>
+      <data key="d12">668</data>
+      <data key="d13">980</data>
+      <data key="d14">388</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48918">
+      <data key="d6">Big fan of The From Software Game.  Invasion enthusiast.  Occasional variety streamer.</data>
+      <data key="d7">2022-12-19 04:47:47.424529</data>
+      <data key="d8">6773</data>
+      <data key="d0">pincognito</data>
+      <data key="d9">2022-12-19 04:47:47.424529</data>
+      <data key="d10">Invasions | PS5, Level 60 +12/+5 | Deathbird Dude</data>
+      <data key="d1">pincognito</data>
+      <data key="d11">1</data>
+      <data key="d12">124</data>
+      <data key="d13">124</data>
+      <data key="d14">124</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="48919">
+      <data key="d6">He/Him - Heyo! My name is Justin. I'm passionate about games as a artform, and thinking critically about games. On this channel you'll mainly see Souls content, with a heavy splash of other RPGs. Business Email: thekoopinfo@gmail.com</data>
+      <data key="d7">2023-01-30 08:52:27.299639</data>
+      <data key="d8">4050</data>
+      <data key="d0">thekoop</data>
+      <data key="d9">2023-01-30 08:52:27.299639</data>
+      <data key="d10">Testing out Arcane (PvE &amp; PvP) !HelloFresh (Ps5, 125)</data>
+      <data key="d1">thekoop</data>
+      <data key="d11">1</data>
+      <data key="d12">337</data>
+      <data key="d13">337</data>
+      <data key="d14">337</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49440">
+      <data key="d6">Hitless Runner. Dead By Daylight Addict. Team Hitless Admin. Metal Enthusiast. GTAIV Legend.</data>
+      <data key="d7">2023-01-22 03:56:44.249524</data>
+      <data key="d8">24459</data>
+      <data key="d0">vswed</data>
+      <data key="d9">2023-01-30 07:13:16.333040</data>
+      <data key="d10">First Time All 165 Bosses! (Region Locked) ~Your Weekend is HERE~ !family !newvid !youtube</data>
+      <data key="d1">vswed</data>
+      <data key="d11">3</data>
+      <data key="d12">1205</data>
+      <data key="d13">1919</data>
+      <data key="d14">576</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49544">
+      <data key="d6">I'm just simply Mr. Ender</data>
+      <data key="d7">2022-12-19 02:15:05.324954</data>
+      <data key="d8">2074</data>
+      <data key="d0">mrendervr</data>
+      <data key="d9">2022-12-19 02:15:05.324954</data>
+      <data key="d10">Take A Breath And It's Alright | headphone warning | [18+] | !discord</data>
+      <data key="d1">mrendervr</data>
+      <data key="d11">1</data>
+      <data key="d12">11</data>
+      <data key="d13">11</data>
+      <data key="d14">11</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49547">
+      <data key="d6">Horror Vtuber and modern day Crypt Keeper  👁📺</data>
+      <data key="d7">2023-01-06 02:10:52.857200</data>
+      <data key="d8">117478</data>
+      <data key="d0">laynalazar</data>
+      <data key="d9">2023-02-27 00:42:28.150666</data>
+      <data key="d10">Very sick Layna just wants to quietly play SOTF with @gmart</data>
+      <data key="d1">laynalazar</data>
+      <data key="d11">26</data>
+      <data key="d12">1638</data>
+      <data key="d13">3055</data>
+      <data key="d14">946</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49616">
+      <data key="d6">Sponsorluk ve reklam için mail adresimden ulaşabilirsiniz. For sponsorship and business related e-mails;  mrtztrk@hotmail.com.tr / info@katmanmedya.com / enes@bigbosslayf.com</data>
+      <data key="d7">2023-01-05 01:41:23.094017</data>
+      <data key="d8">71127</data>
+      <data key="d0">abeautifuldeath</data>
+      <data key="d9">2023-02-08 10:48:26.900720</data>
+      <data key="d10">EARTHQUAKE IN TÜRKİYE - DEPREM BÖLGESİ DESTEK YAYINI</data>
+      <data key="d1">abeautifuldeath</data>
+      <data key="d11">21</data>
+      <data key="d12">1874</data>
+      <data key="d13">9019</data>
+      <data key="d14">474</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49651">
+      <data key="d6">Hei, olen Kosmo. Elän seikkailuille, sushille ja sunnuntaiunelmille. </data>
+      <data key="d7">2022-12-15 11:13:15.501520</data>
+      <data key="d8">4573</data>
+      <data key="d0">kosminenkaaos</data>
+      <data key="d9">2022-12-20 00:51:43.886391</data>
+      <data key="d10">Tänään Super Meat Boy 100%? | Rajoittamaton SUBATHON päivä 6 | !goals !donate | Lunasta !joulukortti</data>
+      <data key="d1">kosminenkaaos</data>
+      <data key="d11">2</data>
+      <data key="d12">81</data>
+      <data key="d13">106</data>
+      <data key="d14">57</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49909">
+      <data key="d6">Games Done Quick (GDQ) is a series of charity video game fundraising events featuring high-level gameplay.  To date, GDQ has raised over 37 million dollars for charity.</data>
+      <data key="d7">2023-01-04 01:20:18.481005</data>
+      <data key="d8">1962495</data>
+      <data key="d0">gamesdonequick</data>
+      <data key="d9">2023-03-12 00:11:05.210598</data>
+      <data key="d10">Mystery Tournament 17 Top 8 - Losers Quarterfinals - someone325 vs AND4H</data>
+      <data key="d1">gamesdonequick</data>
+      <data key="d11">141</data>
+      <data key="d12">17924</data>
+      <data key="d13">86310</data>
+      <data key="d14">1061</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="49915">
+      <data key="d6">Opa! Sou o Jardim. Gosto de assistir vídeos e séries com o xet e de vez em quando jogar alguma coisa. Acende a tocha e vem comigo.🚫 proibido a entrada de carecas (mas se quiser pode)    comercial : contatojardas@gmail.com</data>
+      <data key="d7">2022-12-15 11:40:20.727728</data>
+      <data key="d8">6393</data>
+      <data key="d0">jardineirofeliz</data>
+      <data key="d9">2022-12-15 11:40:20.727728</data>
+      <data key="d10">elden ring de cria</data>
+      <data key="d1">jardineirofeliz</data>
+      <data key="d11">1</data>
+      <data key="d12">19</data>
+      <data key="d13">19</data>
+      <data key="d14">19</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="50037">
+      <data key="d6">♡ Hiiii ♡ You can call me Goblin, Gobby or Gob. I'm a full time Canadian variety video game streamer with a focus on single player games, chatting and hanging out. We play lots of games off stream in our community discord, and often run community servers. [Current servers: Minecraft, Valheim]</data>
+      <data key="d7">2022-12-15 11:52:51.036408</data>
+      <data key="d8">2123</data>
+      <data key="d0">goblinmonkk</data>
+      <data key="d9">2022-12-15 11:52:51.036408</data>
+      <data key="d10">First Playthrough for a souls noob [no backseating or spoilers pls] --&gt; !discord !throne</data>
+      <data key="d1">goblinmonkk</data>
+      <data key="d11">1</data>
+      <data key="d12">118</data>
+      <data key="d13">118</data>
+      <data key="d14">118</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="50705">
+      <data key="d6">I'm former host of Good Game and Good Game Spawn Point TV shows, now an Internet silly person and Twitch ambassador! Welcome to one of the most interactive streams on Twitch! type !alerts to annoy Bajo with hundreds of alerts!</data>
+      <data key="d7">2023-01-05 10:32:20.447377</data>
+      <data key="d8">98344</data>
+      <data key="d0">bajo</data>
+      <data key="d9">2023-02-01 08:44:56.725328</data>
+      <data key="d10">Hitman 3 Roguelike today!</data>
+      <data key="d1">bajo</data>
+      <data key="d11">13</data>
+      <data key="d12">553</data>
+      <data key="d13">752</data>
+      <data key="d14">405</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="51448">
+      <data key="d6">Life is a gamble, Let's play a little!</data>
+      <data key="d7">2022-12-15 14:16:32.945632</data>
+      <data key="d8">1269</data>
+      <data key="d0">leeplayswithfriends</data>
+      <data key="d9">2022-12-15 14:16:32.945632</data>
+      <data key="d10">WITH A ✨B✨A✨N✨G✨ THE FINAL STREAM-A-THON UNCAPPED | No Backseating, No Spoilers | !prog !cmd !subathon</data>
+      <data key="d1">leeplayswithfriends</data>
+      <data key="d11">1</data>
+      <data key="d12">25</data>
+      <data key="d13">25</data>
+      <data key="d14">25</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="51474">
+      <data key="d6">professional dumdum</data>
+      <data key="d7">2022-12-19 04:28:52.318938</data>
+      <data key="d8">66737</data>
+      <data key="d0">patty</data>
+      <data key="d9">2023-03-11 11:18:22.683366</data>
+      <data key="d10">If you look closely this is actually a mario game - Jank Parent's Basement Stream</data>
+      <data key="d1">patty</data>
+      <data key="d11">68</data>
+      <data key="d12">647</data>
+      <data key="d13">1396</data>
+      <data key="d14">134</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="51518">
+      <data key="d6">Hi</data>
+      <data key="d7">2022-12-15 14:23:40.409296</data>
+      <data key="d8">1408</data>
+      <data key="d0">lnightlord</data>
+      <data key="d9">2022-12-15 14:23:40.409296</data>
+      <data key="d10">NEW UPDATE? Dragon Dozer Discovered The Power of Pots | Arena PvP | !rl !discord</data>
+      <data key="d1">lnightlord</data>
+      <data key="d11">1</data>
+      <data key="d12">55</data>
+      <data key="d13">55</data>
+      <data key="d14">55</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="51879">
+      <data key="d6">Fantasy, Science, and Math nerd. I do long challenge runs, such as All Enemies No-Hit runs.</data>
+      <data key="d7">2022-12-15 15:00:45.706894</data>
+      <data key="d8">3060</data>
+      <data key="d0">distractioncrab</data>
+      <data key="d9">2022-12-15 15:00:45.706894</data>
+      <data key="d10">[No-Hit] All !enemies | Re-routing because FotRM is nerfed to the ground</data>
+      <data key="d1">distractioncrab</data>
+      <data key="d11">1</data>
+      <data key="d12">42</data>
+      <data key="d13">42</data>
+      <data key="d14">42</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="53304">
+      <data key="d7">2022-12-15 17:26:38.762402</data>
+      <data key="d8">865</data>
+      <data key="d0">bubardcor</data>
+      <data key="d9">2022-12-19 18:09:20.463272</data>
+      <data key="d10">La suite des aventures d'El Gourdino, jour 13, mon build ? amour finesse et délicatesse !playlist</data>
+      <data key="d1">bubardcor</data>
+      <data key="d11">2</data>
+      <data key="d12">32</data>
+      <data key="d13">36</data>
+      <data key="d14">28</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="53320">
+      <data key="d6">Hello! I'm Penny, variety streamer with a Soulsborne passion! Sorry not sorry for the broken English and the occasional swear words 😇</data>
+      <data key="d7">2022-12-15 17:28:18.129192</data>
+      <data key="d8">11777</data>
+      <data key="d0">pennymeowy</data>
+      <data key="d9">2022-12-15 17:28:18.129192</data>
+      <data key="d10">Making a new !build for PVP Arena!</data>
+      <data key="d1">pennymeowy</data>
+      <data key="d11">1</data>
+      <data key="d12">263</data>
+      <data key="d13">263</data>
+      <data key="d14">263</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="53463">
+      <data key="d6">Just a dude in front of a camera, hoping the chat can carry the stream. brodieCCTV on Twitter and Instagram. youtube.com/brodieYT</data>
+      <data key="d7">2023-01-05 10:59:43.301981</data>
+      <data key="d8">77456</data>
+      <data key="d0">brodie</data>
+      <data key="d9">2023-03-01 09:45:20.467190</data>
+      <data key="d10">MARBLES, VIP OF THE MONTH, SURVIVING A BIG OLD FOREST BY MYSELF JUST TRYING TO FIND THE ANSWERS TO EARTHS GREATEST MYSTERIES</data>
+      <data key="d1">brodie</data>
+      <data key="d11">7</data>
+      <data key="d12">539</data>
+      <data key="d13">721</data>
+      <data key="d14">348</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="53548">
+      <data key="d6">Ronin né dans l'ancien millénaire, Originaire du sud de la France. Sur twitch pour le partage et l'ambiance. Adepte de Rogue-Lite mais pas que. Je joue aussi à du FPS / TPS , Moba , MMO et quelques let's play ! Hésites pas à parler sur le live, Plus il est animé, Meilleur il est ! </data>
+      <data key="d7">2022-12-15 17:51:39.983803</data>
+      <data key="d8">478</data>
+      <data key="d0">buichii</data>
+      <data key="d9">2022-12-15 17:51:39.983803</data>
+      <data key="d10">100%Randomized Le retour ! Académie EZ ? [94/100Followers ]</data>
+      <data key="d1">buichii</data>
+      <data key="d11">1</data>
+      <data key="d12">3</data>
+      <data key="d13">3</data>
+      <data key="d14">3</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="53864">
+      <data key="d6">Your generic, run-of-the-mill gamer from Finland.</data>
+      <data key="d7">2022-12-15 18:24:06.315302</data>
+      <data key="d8">183183</data>
+      <data key="d0">laeppastream</data>
+      <data key="d9">2023-03-05 16:44:41.835289</data>
+      <data key="d10">Sunnuntain selviytymisiä | !waterdrop</data>
+      <data key="d1">laeppastream</data>
+      <data key="d11">43</data>
+      <data key="d12">1508</data>
+      <data key="d13">2736</data>
+      <data key="d14">903</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="54215">
+      <data key="d6">Call me Grey or Demi! Souls-like streamer / other games in-between!</data>
+      <data key="d7">2022-12-15 19:00:07.723816</data>
+      <data key="d8">2558</data>
+      <data key="d0">demi_greyt</data>
+      <data key="d9">2022-12-15 19:00:07.723816</data>
+      <data key="d10">Maidenless, pantless and lost! Part 6! 💙✨</data>
+      <data key="d1">demi_greyt</data>
+      <data key="d11">1</data>
+      <data key="d12">35</data>
+      <data key="d13">35</data>
+      <data key="d14">35</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="54290">
+      <data key="d6">巄來車拚  Contact me 合作查詢 : billv3vb@gmail.com(瘋狗娛樂)</data>
+      <data key="d7">2023-01-04 19:23:46.027177</data>
+      <data key="d8">290110</data>
+      <data key="d0">sweetcampercs</data>
+      <data key="d9">2023-04-03 13:16:19.431095</data>
+      <data key="d10">🐢瘋狗娛樂 龜狗🐢 4/3 時差魔術師 !vpn !line !好玩遊戲</data>
+      <data key="d1">sweetcampercs</data>
+      <data key="d11">73</data>
+      <data key="d12">2038</data>
+      <data key="d13">5423</data>
+      <data key="d14">1004</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="54515">
+      <data key="d6">I'm loud.</data>
+      <data key="d7">2022-12-15 19:31:06.534171</data>
+      <data key="d8">289341</data>
+      <data key="d0">nalopia</data>
+      <data key="d9">2023-03-11 19:36:12.105014</data>
+      <data key="d10">MEME NIGHT?? !socials !tiktok !youtube</data>
+      <data key="d1">nalopia</data>
+      <data key="d11">23</data>
+      <data key="d12">888</data>
+      <data key="d13">1457</data>
+      <data key="d14">707</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="55109">
+      <data key="d6">Elden Ring / Dark Souls Speedrunner || Contact Pro ▶ owarida.contact@gmail.com</data>
+      <data key="d7">2022-12-15 20:32:40.609824</data>
+      <data key="d8">5161</data>
+      <data key="d0">owarida</data>
+      <data key="d9">2022-12-15 20:32:40.609824</data>
+      <data key="d10">🔴 Du Speedrun sans Glitch : Tous les Souvenirs 🦩 All Remembrances Glitchless Speedruns 🦩 Hop c'est moi le chef maintenant ❗sel</data>
+      <data key="d1">owarida</data>
+      <data key="d11">1</data>
+      <data key="d12">92</data>
+      <data key="d13">92</data>
+      <data key="d14">92</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="55137">
+      <data key="d6">Gamer.  Live Streams ► Mon - Fri @ 8am PST</data>
+      <data key="d7">2022-12-15 20:35:32.822571</data>
+      <data key="d8">1706</data>
+      <data key="d0">kotakobe</data>
+      <data key="d9">2022-12-15 20:35:32.822571</data>
+      <data key="d10">ELDEN RING FIRST PLAYTHROUGH</data>
+      <data key="d1">kotakobe</data>
+      <data key="d11">1</data>
+      <data key="d12">24</data>
+      <data key="d13">24</data>
+      <data key="d14">24</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="55515">
+      <data key="d6">Thanks for stopping by and taking your time to read my bio. I play fps games with viewers Monday to Friday! All are welcome regardless of rank. </data>
+      <data key="d7">2022-12-15 21:14:15.297372</data>
+      <data key="d8">14517</data>
+      <data key="d0">shrikettv</data>
+      <data key="d9">2022-12-15 21:14:15.297372</data>
+      <data key="d10">!Fozzy Day 3 new player... !PNS #ad !lyme</data>
+      <data key="d1">shrikettv</data>
+      <data key="d11">1</data>
+      <data key="d12">21</data>
+      <data key="d13">21</data>
+      <data key="d14">21</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="8109">
+      <data key="d0">LGBTQIA</data>
+      <data key="d1">LGBTQIA</data>
+      <data key="d2">https://www.twitch.tv/directory/all/tags/LGBTQIA</data>
+      <data key="d3">tag</data>
+      <data key="d4">tag</data>
+      <data key="d16">tag</data>
+    </node>
+    <node id="55569">
+      <data key="d6">Possante como um jato...veloz como um foguete. CATCHAU!</data>
+      <data key="d7">2022-12-15 21:19:45.633879</data>
+      <data key="d8">25031</data>
+      <data key="d0">speed_martyr</data>
+      <data key="d9">2022-12-15 21:19:45.633879</data>
+      <data key="d10">ELDEN RING COOP MATANDO TODOS OS BOSSES | !social</data>
+      <data key="d1">speed_martyr</data>
+      <data key="d11">1</data>
+      <data key="d12">113</data>
+      <data key="d13">113</data>
+      <data key="d14">113</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="55592">
+      <data key="d6">‏"اللهمّ كغيمة القٌطن التي تطَفوا على سطح السماءَ فليكٌن قلبيَ ⛅️💗."                                                             </data>
+      <data key="d7">2022-12-15 21:22:06.219088</data>
+      <data key="d8">5385</data>
+      <data key="d0">1llth</data>
+      <data key="d9">2022-12-15 21:22:06.219088</data>
+      <data key="d10">Hii</data>
+      <data key="d1">1llth</data>
+      <data key="d11">1</data>
+      <data key="d12">26</data>
+      <data key="d13">26</data>
+      <data key="d14">26</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="55707">
+      <data key="d7">2022-12-15 21:33:56.650064</data>
+      <data key="d0">decimushd</data>
+      <data key="d9">2022-12-15 21:33:56.650064</data>
+      <data key="d10">Elden Ring, Day 9</data>
+      <data key="d1">decimushd</data>
+      <data key="d11">1</data>
+      <data key="d12">51</data>
+      <data key="d13">51</data>
+      <data key="d14">51</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="56177">
+      <data key="d6">Borderlands and F1 nerd who min-maxes the fun into video games.</data>
+      <data key="d7">2022-12-15 22:22:03.296280</data>
+      <data key="d8">24766</data>
+      <data key="d0">lazydata</data>
+      <data key="d9">2022-12-15 22:22:03.296280</data>
+      <data key="d10">New to souls games. Hand monsters scare me !backseat</data>
+      <data key="d1">lazydata</data>
+      <data key="d11">1</data>
+      <data key="d12">44</data>
+      <data key="d13">44</data>
+      <data key="d14">44</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="56294">
+      <data key="d6">hi, im autumn~ its nice to meet you</data>
+      <data key="d7">2022-12-15 22:34:08.714647</data>
+      <data key="d8">50134</data>
+      <data key="d0">autumn_vr</data>
+      <data key="d9">2022-12-15 22:34:08.714647</data>
+      <data key="d10">variety soon! ~ What Remains of Edith Finch ~ good morning :)</data>
+      <data key="d1">autumn_vr</data>
+      <data key="d11">1</data>
+      <data key="d12">106</data>
+      <data key="d13">106</data>
+      <data key="d14">106</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="56905">
+      <data key="d6">Bonjour c'est Legzouz j'ai une lampe à lave dans le fond enfin bref. Stream lundi, mardi, jeudi et dimanche en soirée sauf exception huhu bisosu </data>
+      <data key="d7">2022-12-15 23:35:46.961431</data>
+      <data key="d8">598</data>
+      <data key="d0">legzouz</data>
+      <data key="d9">2022-12-15 23:35:46.961431</data>
+      <data key="d10">✨ Moonveil Samurai ✨ Nouvelle run oklm</data>
+      <data key="d1">legzouz</data>
+      <data key="d11">1</data>
+      <data key="d12">21</data>
+      <data key="d13">21</data>
+      <data key="d14">21</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="56917">
+      <data key="d6"> T R Y  H A R D   +   S P E E D  R U N   +   AAA   +  RETRO  </data>
+      <data key="d7">2022-12-15 23:37:00.737639</data>
+      <data key="d8">2799</data>
+      <data key="d0">beardsercoeur</data>
+      <data key="d9">2022-12-19 17:00:21.468735</data>
+      <data key="d10">[ FR ] TEST Entrainement pour le No Hit RL1 ne pas mourir aie aie aie j'ai pas encore ce pouvoir :(</data>
+      <data key="d1">beardsercoeur</data>
+      <data key="d11">2</data>
+      <data key="d12">22</data>
+      <data key="d13">25</data>
+      <data key="d14">19</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="57025">
+      <data key="d6">Amante de los videojuegos, que ante todo busca disfrutar y divertirse con ellos y por qué no, ¡¡¡que vosotros lo hagáis junto a mí!!! </data>
+      <data key="d7">2022-12-15 23:47:56.222113</data>
+      <data key="d8">3382</data>
+      <data key="d0">machacasaurio86</data>
+      <data key="d9">2022-12-20 01:41:47.386517</data>
+      <data key="d10">PRIMERA RUN YAYO PACO EL MAGO MAS GRANDE DE TODOS LOS TIEMPOS xD !sonidos - SUB = COFRE GRATIS !cofre</data>
+      <data key="d1">machacasaurio86</data>
+      <data key="d11">2</data>
+      <data key="d12">7</data>
+      <data key="d13">9</data>
+      <data key="d14">5</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="58330">
+      <data key="d6">YO! Call me Koko! I'm an vtuber imp trying to have fun, you?</data>
+      <data key="d7">2022-12-16 01:59:40.683971</data>
+      <data key="d8">980</data>
+      <data key="d0">kokopimento</data>
+      <data key="d9">2022-12-16 01:59:40.683971</data>
+      <data key="d10">Silly Imp Making Mistakes That She Is Not Prepared To Handle | Elden Ring Day 26 | trying to beat this game before the year ends!</data>
+      <data key="d1">kokopimento</data>
+      <data key="d11">1</data>
+      <data key="d12">20</data>
+      <data key="d13">20</data>
+      <data key="d14">20</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="58344">
+      <data key="d6">Love me! Love me! Love me! Love me! Love me! Love me! Love me! Love me! Love me! Love me! Love me! Love me! </data>
+      <data key="d7">2022-12-16 02:01:05.697214</data>
+      <data key="d8">7248</data>
+      <data key="d0">millanoire</data>
+      <data key="d9">2022-12-16 02:01:05.697214</data>
+      <data key="d10">⚫️🧡Drinking while suffering through Elden Ring🧡⚫️[First playthrough]</data>
+      <data key="d1">millanoire</data>
+      <data key="d11">1</data>
+      <data key="d12">42</data>
+      <data key="d13">42</data>
+      <data key="d14">42</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="59160">
+      <data key="d6">Ellie (she/her) is a queer, charity focused, full-time content creator and ex-gamedev who plays a variety of hard &amp; soft games. Biz: elliejoypanic(at)outlook.com</data>
+      <data key="d7">2022-12-16 03:23:06.415823</data>
+      <data key="d8">8749</data>
+      <data key="d0">elliejoypanic</data>
+      <data key="d9">2022-12-16 03:23:06.415823</data>
+      <data key="d10">[!first] I *WILL* solo her - Ellieden Ring Day 41 ✨ !RAD !eldenbosses !pronouns !modlove</data>
+      <data key="d1">elliejoypanic</data>
+      <data key="d11">1</data>
+      <data key="d12">92</data>
+      <data key="d13">92</data>
+      <data key="d14">92</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="59791">
+      <data key="d6">Gameplay belli, con discorsi prolissi tra un boss e l'altro. Il solito Cydonia di quartiere, insomma. </data>
+      <data key="d7">2023-01-03 22:21:50.675118</data>
+      <data key="d8">151090</data>
+      <data key="d0">cydonia_chiara</data>
+      <data key="d9">2023-03-11 17:18:13.092720</data>
+      <data key="d10">Gara Online DAY 2: Disgrazie Experience (19-8) | !SIP !prime !nordvpn</data>
+      <data key="d1">cydonia_chiara</data>
+      <data key="d11">45</data>
+      <data key="d12">2383</data>
+      <data key="d13">8595</data>
+      <data key="d14">900</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="59907">
+      <data key="d6">TWITTER : @Maximus3blog // INSTAGRAM: @maximustresblog // YOUTUBE: maximus3blog</data>
+      <data key="d7">2022-12-16 04:38:39.307614</data>
+      <data key="d8">1196487</data>
+      <data key="d0">agentemaxo</data>
+      <data key="d9">2023-04-03 05:44:01.850800</data>
+      <data key="d10">🟥 OMG ES JHON WEED IN PERMADEAZ 2 🟥 MAÑANA EVENTO DE QSMP = Que Sabor Mas Peculiar! 🟥</data>
+      <data key="d1">agentemaxo</data>
+      <data key="d11">65</data>
+      <data key="d12">2732</data>
+      <data key="d13">18602</data>
+      <data key="d14">753</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="59932">
+      <data key="d6">Howdy, I'm Jarude.  A sloth vtuber that plays games and occasionally makes a joke or two.</data>
+      <data key="d7">2022-12-16 04:41:10.311934</data>
+      <data key="d8">448</data>
+      <data key="d0">jarudexsandstorm</data>
+      <data key="d9">2022-12-16 04:41:10.311934</data>
+      <data key="d10">Gobbo And Sloth Become Elden Lords | !discord</data>
+      <data key="d1">jarudexsandstorm</data>
+      <data key="d11">1</data>
+      <data key="d12">5</data>
+      <data key="d13">5</data>
+      <data key="d14">5</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="60318">
+      <data key="d6">YouTube channel: Etertime</data>
+      <data key="d7">2022-12-16 05:20:11.485372</data>
+      <data key="d8">1037</data>
+      <data key="d0">etertime</data>
+      <data key="d9">2022-12-16 05:20:11.485372</data>
+      <data key="d10">Invasions and arena 2v2s</data>
+      <data key="d1">etertime</data>
+      <data key="d11">1</data>
+      <data key="d12">42</data>
+      <data key="d13">42</data>
+      <data key="d14">42</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="60792">
+      <data key="d7">2022-12-16 06:08:06.422277</data>
+      <data key="d0">firekidmusic</data>
+      <data key="d9">2022-12-16 06:08:06.422277</data>
+      <data key="d10">shrek in the coliseum | !bandcamp !discord</data>
+      <data key="d1">firekidmusic</data>
+      <data key="d11">1</data>
+      <data key="d12">10</data>
+      <data key="d13">10</data>
+      <data key="d14">10</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="60851">
+      <data key="d6">Professional Halo Player for OpTic Gaming </data>
+      <data key="d7">2022-12-16 06:14:04.948305</data>
+      <data key="d8">56147</data>
+      <data key="d0">tripppey</data>
+      <data key="d9">2023-03-05 04:42:54.284585</data>
+      <data key="d10">CHARLOTTE REBROAD WATCH PARTY</data>
+      <data key="d1">tripppey</data>
+      <data key="d11">3</data>
+      <data key="d12">922</data>
+      <data key="d13">1906</data>
+      <data key="d14">111</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="60893">
+      <data key="d6">Call Me Stari!!! Pls!!! A Trash Panda and her Snack Pack!!! - Alignment: Chaotic Comfy -Variety Streamerhttps://throne.me/stari2damax/wishlist</data>
+      <data key="d7">2022-12-16 06:18:21.387404</data>
+      <data key="d8">3997</data>
+      <data key="d0">stari2damax</data>
+      <data key="d9">2022-12-16 06:18:21.387404</data>
+      <data key="d10">Elden Ring ...But She's a Vtuber</data>
+      <data key="d1">stari2damax</data>
+      <data key="d11">1</data>
+      <data key="d12">22</data>
+      <data key="d13">22</data>
+      <data key="d14">22</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="61487">
+      <data key="d6">ダイエットマスター[https://core.yematube.com/support/j11/pickel_sirota/huelbljp/link]</data>
+      <data key="d7">2022-12-16 07:18:26.198524</data>
+      <data key="d8">1183</data>
+      <data key="d0">pickel_sirota</data>
+      <data key="d9">2022-12-20 03:40:30.475569</data>
+      <data key="d10">再開のエルデンリング初見プレイ（チアー禁止）</data>
+      <data key="d1">pickel_sirota</data>
+      <data key="d11">2</data>
+      <data key="d12">192</data>
+      <data key="d13">262</data>
+      <data key="d14">122</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="61490">
+      <data key="d6">Hi! I'm Mari! I draw and stuff ლ(●ↀωↀ●)ლ</data>
+      <data key="d7">2022-12-16 07:18:44.353075</data>
+      <data key="d8">2300</data>
+      <data key="d0">mariquitamari</data>
+      <data key="d9">2022-12-16 07:18:44.353075</data>
+      <data key="d10">Ort then the Elden</data>
+      <data key="d1">mariquitamari</data>
+      <data key="d11">1</data>
+      <data key="d12">45</data>
+      <data key="d13">45</data>
+      <data key="d14">45</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="61715">
+      <data key="d6">Too Weird To Live, Too Rare To Die. Roll Tide. </data>
+      <data key="d7">2022-12-16 07:41:34.850682</data>
+      <data key="d8">8050</data>
+      <data key="d0">ghost_hardware_</data>
+      <data key="d9">2022-12-16 07:41:34.850682</data>
+      <data key="d10">(PS5) Invasions/TTongued Buildwork - Ghosts Gone Wild</data>
+      <data key="d1">ghost_hardware_</data>
+      <data key="d11">1</data>
+      <data key="d12">108</data>
+      <data key="d13">108</data>
+      <data key="d14">108</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="62061">
+      <data key="d6">apertei a mão do lula, tenho terceiro lugar do recorde mundial do jogo do shrek de gba, tenho canal gemaplys, apareci em um vídeo do mr beast e lanço músicas</data>
+      <data key="d7">2022-12-16 08:16:36.580048</data>
+      <data key="d8">251554</data>
+      <data key="d0">vitongemaplys</data>
+      <data key="d9">2023-03-06 08:30:10.255964</data>
+      <data key="d10">arrumando musicas pra um FUTURO yun li ao vivo</data>
+      <data key="d1">vitongemaplys</data>
+      <data key="d11">61</data>
+      <data key="d12">1363</data>
+      <data key="d13">2499</data>
+      <data key="d14">446</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="62126">
+      <data key="d7">2022-12-16 08:23:10.954430</data>
+      <data key="d8">32777</data>
+      <data key="d0">maisuaisu</data>
+      <data key="d9">2022-12-20 01:46:25.684152</data>
+      <data key="d10">Элден, потом кушать, потом работать 𓁹‿𓁹</data>
+      <data key="d1">maisuaisu</data>
+      <data key="d11">2</data>
+      <data key="d12">155</data>
+      <data key="d13">176</data>
+      <data key="d14">134</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="62582">
+      <data key="d6">Provider of streams and lover of memes. I put one foot in front of the other just like anybody else. I guess most people aren't putting them in their mouth though...</data>
+      <data key="d7">2022-12-16 09:10:51.025729</data>
+      <data key="d8">419</data>
+      <data key="d0">toanofthesun</data>
+      <data key="d9">2022-12-16 09:10:51.025729</data>
+      <data key="d10">Metal Detecting on the Internet Beach for Some Geriatric Jewelry.</data>
+      <data key="d1">toanofthesun</data>
+      <data key="d11">1</data>
+      <data key="d12">15</data>
+      <data key="d13">15</data>
+      <data key="d14">15</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="62789">
+      <data key="d6">Mashin' Buttons</data>
+      <data key="d7">2022-12-16 09:32:33.953308</data>
+      <data key="d8">634</data>
+      <data key="d0">elshowcake</data>
+      <data key="d9">2022-12-16 09:32:33.953308</data>
+      <data key="d10">No Hit Run - New Route with Iron Ball Any % - PB 6</data>
+      <data key="d1">elshowcake</data>
+      <data key="d11">1</data>
+      <data key="d12">16</data>
+      <data key="d13">16</data>
+      <data key="d14">16</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="63037">
+      <data key="d6">Transmitindo um pouco das minhas jogatinas, Apex legends e outros jogos.</data>
+      <data key="d7">2022-12-19 06:25:46.957392</data>
+      <data key="d8">1706</data>
+      <data key="d0">robsonbdo</data>
+      <data key="d9">2022-12-19 06:25:46.957392</data>
+      <data key="d10">Elden Ring - Parte 5! Bora? !lurk !youtube !social !liveeu !comandos</data>
+      <data key="d1">robsonbdo</data>
+      <data key="d11">1</data>
+      <data key="d12">39</data>
+      <data key="d13">39</data>
+      <data key="d14">39</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="63109">
+      <data key="d6">Challenge streamer and playlist maker extraordinaire. The mecca of challenge/speed runs mixed with meme content and top tier bangers. </data>
+      <data key="d7">2022-12-16 10:06:07.163659</data>
+      <data key="d8">8834</data>
+      <data key="d0">captain_domo</data>
+      <data key="d9">2023-01-07 06:25:44.152754</data>
+      <data key="d10">Rando Race with chris and josh !announcement !multi</data>
+      <data key="d1">captain_domo</data>
+      <data key="d11">2</data>
+      <data key="d12">246</data>
+      <data key="d13">389</data>
+      <data key="d14">104</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="64214">
+      <data key="d7">2023-01-17 10:45:09.259636</data>
+      <data key="d0">savisenpaii</data>
+      <data key="d9">2023-01-18 15:58:22.033948</data>
+      <data key="d10">More Blood For The Blood God (Glass Canon with daggers)</data>
+      <data key="d1">savisenpaii</data>
+      <data key="d11">2</data>
+      <data key="d12">644</data>
+      <data key="d13">845</data>
+      <data key="d14">444</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="65044">
+      <data key="d6">Ello! The name's KStyle! Once a Veteran Barista, now a full time streamer and part time student studying Accounting attempting to get back on track so I can attend all the concerts. Lover of Dark Souls and Monster Hunter. Open to all games. </data>
+      <data key="d7">2022-12-18 12:11:04.654371</data>
+      <data key="d8">2966</data>
+      <data key="d0">imkstyle</data>
+      <data key="d9">2022-12-18 12:11:04.654371</data>
+      <data key="d10">Elden Ring w/chill vibes | Build craft and PvE | - Everyone Welcome -</data>
+      <data key="d1">imkstyle</data>
+      <data key="d11">1</data>
+      <data key="d12">53</data>
+      <data key="d13">53</data>
+      <data key="d14">53</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="65086">
+      <data key="d6">Old gamer, Crowman, pizza enthusiast, nerd. If you enjoy FromSoftware titles, some dashes of variety and good vibes, you've come to the right place. </data>
+      <data key="d7">2022-12-18 11:11:58.077033</data>
+      <data key="d8">1004</data>
+      <data key="d0">crowley_mr</data>
+      <data key="d9">2022-12-18 11:11:58.077033</data>
+      <data key="d10">[PvE/PvP] Build making &amp; invadering !rl</data>
+      <data key="d1">crowley_mr</data>
+      <data key="d11">1</data>
+      <data key="d12">19</data>
+      <data key="d13">19</data>
+      <data key="d14">19</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="65167">
+      <data key="d6">♡ My name is Aqua and I’m a cyber fox ♡</data>
+      <data key="d7">2022-12-18 10:40:27.918924</data>
+      <data key="d8">9669</data>
+      <data key="d0">aquaafox</data>
+      <data key="d9">2022-12-18 10:40:27.918924</data>
+      <data key="d10">FIRST TIME PLAYING ELDEN RING W/ CO-OP !Discord !Throne !youtube</data>
+      <data key="d1">aquaafox</data>
+      <data key="d11">1</data>
+      <data key="d12">48</data>
+      <data key="d13">48</data>
+      <data key="d14">48</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="65355">
+      <data key="d6">Salutations! Ici tu trouveras des Quiz Interactifs, des Talk Shows, des Blind Test et des Interviews, le tout saupoudré de gaming!</data>
+      <data key="d7">2022-12-18 14:51:20.481262</data>
+      <data key="d8">1802</data>
+      <data key="d0">valranox</data>
+      <data key="d9">2022-12-18 14:51:20.481262</data>
+      <data key="d10">[1ere Run] Le Samouraï des Arcanes [Ep13] #nospoil #noob !discord !sons</data>
+      <data key="d1">valranox</data>
+      <data key="d11">1</data>
+      <data key="d12">38</data>
+      <data key="d13">38</data>
+      <data key="d14">38</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="66875">
+      <data key="d6">..꒰ঌ 虹色の小さな天使Vtuber ໒꒱ ..*˚ 🗝Can you help me find my memory..？ </data>
+      <data key="d7">2022-12-18 10:36:55.340760</data>
+      <data key="d8">267868</data>
+      <data key="d0">amemiyanazuna</data>
+      <data key="d9">2023-02-25 17:04:34.980942</data>
+      <data key="d10">ゲリラ深夜 Minecraft 人の鯖遊びに行く☆飴宮なずな #Vshojo</data>
+      <data key="d1">amemiyanazuna</data>
+      <data key="d11">7</data>
+      <data key="d12">2803</data>
+      <data key="d13">3287</data>
+      <data key="d14">2138</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="66879">
+      <data key="d6">When I grow up I want to be a freedom fighter, or a Tyrannosaurus rex.</data>
+      <data key="d7">2022-12-18 11:13:47.613000</data>
+      <data key="d8">151410</data>
+      <data key="d0">cutedog_</data>
+      <data key="d9">2023-03-11 11:20:53.591158</data>
+      <data key="d10">🦄RANK #1 ZOOMING🦄!LastEpoch happy futa friday🦄&lt;!Factor&gt;🦄CUTEDOG_🦄</data>
+      <data key="d1">cutedog_</data>
+      <data key="d11">93</data>
+      <data key="d12">1484</data>
+      <data key="d13">2536</data>
+      <data key="d14">456</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="67494">
+      <data key="d6">"The streamer to watch when no one else is live...." - Thomas Jefferson</data>
+      <data key="d7">2023-01-05 13:12:13.058002</data>
+      <data key="d8">2861487</data>
+      <data key="d0">loserfruit</data>
+      <data key="d9">2023-03-11 13:25:16.470375</data>
+      <data key="d10">BACK FROM VACATION🍓i missed you all - forget all the mean things I said before I left🍓</data>
+      <data key="d1">loserfruit</data>
+      <data key="d11">47</data>
+      <data key="d12">1037</data>
+      <data key="d13">2189</data>
+      <data key="d14">488</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="67634">
+      <data key="d6">Just a Mango that wants to dance and draw.</data>
+      <data key="d7">2023-01-08 22:40:39.956417</data>
+      <data key="d8">32484</data>
+      <data key="d0">crazymango_vr</data>
+      <data key="d9">2023-03-05 11:06:26.435240</data>
+      <data key="d10">Just doing a little infrastructure building in the Forest. Factor75 Sponsored Segment! !Factor #ad (Mute Stremer)</data>
+      <data key="d1">crazymango_vr</data>
+      <data key="d11">25</data>
+      <data key="d12">773</data>
+      <data key="d13">1311</data>
+      <data key="d14">476</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="68480">
+      <data key="d6">你好，我是Wannasinging老王，可以叫我老王、王媽媽、阿王 (´▽`ʃ♡ƪ) 最近剛從FB轉學回來，歡迎大家來看台每周三晚上會開唱歌台，歡迎來聽歌聊天。開台或臨時不開台都會發通知在DC群組，歡迎加入~</data>
+      <data key="d7">2023-01-04 17:07:38.043692</data>
+      <data key="d8">130225</data>
+      <data key="d0">wannasinging</data>
+      <data key="d9">2023-03-02 17:09:19.139787</data>
+      <data key="d10">【老王】3/2 10點半大嘻哈時代 同步視聽</data>
+      <data key="d1">wannasinging</data>
+      <data key="d11">26</data>
+      <data key="d12">1226</data>
+      <data key="d13">1726</data>
+      <data key="d14">492</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="68863">
+      <data key="d6">me Vs da World</data>
+      <data key="d7">2022-12-22 12:36:17.871543</data>
+      <data key="d8">3143</data>
+      <data key="d0">indihya</data>
+      <data key="d9">2022-12-22 12:36:17.871543</data>
+      <data key="d10">tikkk tacccc !follow</data>
+      <data key="d1">indihya</data>
+      <data key="d11">1</data>
+      <data key="d12">102</data>
+      <data key="d13">102</data>
+      <data key="d14">102</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="69021">
+      <data key="d6">Selbst nobelpreisgekrönte Mathematiker sind sich sicher: Jen ist einfach unberechenbar! Dabei ist ihr Masterplan für die Eroberung eurer Lachmuskel und grauen Zellen eigentlich ganz einfach. Denn hier findet ihr immer einen Safe Space, in dem negative Energie keine Chance hat.</data>
+      <data key="d7">2023-01-05 18:58:27.024518</data>
+      <data key="d8">149188</data>
+      <data key="d0">jennyan</data>
+      <data key="d9">2023-03-11 20:07:28.679347</data>
+      <data key="d10">⋯✦ In 10 Tagen nach Japan! ✦⋯</data>
+      <data key="d1">jennyan</data>
+      <data key="d11">55</data>
+      <data key="d12">2628</data>
+      <data key="d13">7366</data>
+      <data key="d14">932</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="69561">
+      <data key="d6">Tentando Pegar Todos Os Pokemons Shinys , Com Vozes Na Minha Cabeça E Bora Bugar Uns Jogos!</data>
+      <data key="d7">2022-12-25 04:07:26.277278</data>
+      <data key="d8">2070</data>
+      <data key="d0">rafaelhiko</data>
+      <data key="d9">2022-12-25 04:07:26.277278</data>
+      <data key="d10">Meu Primeiro Amor 5, Feliz Natal UwU</data>
+      <data key="d1">rafaelhiko</data>
+      <data key="d11">1</data>
+      <data key="d12">10</data>
+      <data key="d13">10</data>
+      <data key="d14">10</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="69671">
+      <data key="d6">anyways</data>
+      <data key="d7">2023-01-04 23:29:19.157714</data>
+      <data key="d8">127248</data>
+      <data key="d0">albinovevo</data>
+      <data key="d9">2023-03-11 16:38:41.860043</data>
+      <data key="d10">Public nuisance stream 2.0 | !tts</data>
+      <data key="d1">albinovevo</data>
+      <data key="d11">15</data>
+      <data key="d12">1017</data>
+      <data key="d13">1342</data>
+      <data key="d14">523</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="72288">
+      <data key="d6">Si tu te sens différent , c'est que tu es sur la bonne chaîne. Ici la nuit nous Appartient ! Communauté de Hiboux qui propose toute les nouveautés du moment / Du Blabla , du Rp etc.. Viendez !</data>
+      <data key="d7">2023-01-09 04:34:13.338613</data>
+      <data key="d8">311474</data>
+      <data key="d0">zwave69</data>
+      <data key="d9">2023-03-11 04:47:27.578816</data>
+      <data key="d10">On essaie l'ancien nouveau Resident evil en 4k ULTRA</data>
+      <data key="d1">zwave69</data>
+      <data key="d11">15</data>
+      <data key="d12">752</data>
+      <data key="d13">1283</data>
+      <data key="d14">554</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73100">
+      <data key="d6">An optimistic non-moustached man who could laugh himself to death.</data>
+      <data key="d7">2023-01-03 10:38:40.712733</data>
+      <data key="d8">798905</data>
+      <data key="d0">crayator</data>
+      <data key="d9">2023-03-11 11:07:44.598471</data>
+      <data key="d10">🟥Chat, hello, it's me, your pal, buddy, friend.🟥!youtube !discord</data>
+      <data key="d1">crayator</data>
+      <data key="d11">71</data>
+      <data key="d12">930</data>
+      <data key="d13">1701</data>
+      <data key="d14">449</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73116">
+      <data key="d6">Full-Time Soulsborne Streamer &amp; Content Creator | Video Editor | Mental Health/Community/Creator Advocate | Chronic Lurker | Potato | First Stream July 2022 | 📧 totallyretrotech@gmail</data>
+      <data key="d7">2023-01-03 01:56:14.477501</data>
+      <data key="d8">708</data>
+      <data key="d0">totallyretrotech</data>
+      <data key="d9">2023-01-03 01:56:14.477501</data>
+      <data key="d10">⚔️Maliketh Monday⚔️ | NEW Elden Ring Sub Command (!er)(!er)(!er)(!er) | Rune Level 1 Run | First Challenge Run</data>
+      <data key="d1">totallyretrotech</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">2</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73441">
+      <data key="d6">King Nerd, Creator of OP Builds, Hacker Slayer, &amp; Hatemail Master.</data>
+      <data key="d7">2022-12-25 02:37:16.384223</data>
+      <data key="d8">196791</data>
+      <data key="d0">oroboro</data>
+      <data key="d9">2023-03-06 12:12:02.164084</data>
+      <data key="d10">Nioh &amp; Sekiro Had A Baby</data>
+      <data key="d1">oroboro</data>
+      <data key="d11">38</data>
+      <data key="d12">896</data>
+      <data key="d13">1373</data>
+      <data key="d14">449</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73474">
+      <data key="d6">We are Jacob Andrews and Julia Lepetit. We are Secret Sleepover Society. We are gaming.</data>
+      <data key="d7">2023-01-06 22:39:39.943810</data>
+      <data key="d8">73308</data>
+      <data key="d0">secretsleepoversociety</data>
+      <data key="d9">2023-03-06 05:00:35.678180</data>
+      <data key="d10">Is It Really Returnal If Julia Never Dies Again?</data>
+      <data key="d1">secretsleepoversociety</data>
+      <data key="d11">13</data>
+      <data key="d12">1611</data>
+      <data key="d13">2275</data>
+      <data key="d14">1018</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73488">
+      <data key="d6">Sólo soy un tipo cuyo pasatiempo es ser un antihéroe. </data>
+      <data key="d7">2023-01-03 06:53:31.448686</data>
+      <data key="d8">859</data>
+      <data key="d0">antiheroxiii</data>
+      <data key="d9">2023-01-03 06:53:31.448686</data>
+      <data key="d10">Episodio 459: Página 2 de 365</data>
+      <data key="d1">antiheroxiii</data>
+      <data key="d11">1</data>
+      <data key="d12">16</data>
+      <data key="d13">16</data>
+      <data key="d14">16</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73574">
+      <data key="d6">I'm just here to have a good time!  No drama and only smiles :) Life is good.  Oh yeah, my name is Sean.</data>
+      <data key="d7">2023-01-05 20:56:27.598919</data>
+      <data key="d8">519818</data>
+      <data key="d0">gladd</data>
+      <data key="d9">2023-03-11 23:52:10.798448</data>
+      <data key="d10">3 Man Contest Nezarec</data>
+      <data key="d1">gladd</data>
+      <data key="d11">123</data>
+      <data key="d12">3312</data>
+      <data key="d13">36831</data>
+      <data key="d14">1173</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73613">
+      <data key="d6">girl in sekiro shura glitchless </data>
+      <data key="d7">2023-02-06 08:43:14.489165</data>
+      <data key="d8">16583</data>
+      <data key="d0">parkenharbor</data>
+      <data key="d9">2023-03-03 07:07:07.289236</data>
+      <data key="d10">LOCKOUT BINGO WITH AGGY (THE LEAGUE IS IN TWO DAYS) !league !anon !subathon</data>
+      <data key="d1">parkenharbor</data>
+      <data key="d11">2</data>
+      <data key="d12">388</data>
+      <data key="d13">419</data>
+      <data key="d14">358</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73888">
+      <data key="d7">2023-01-03 02:52:11.570314</data>
+      <data key="d0">venturawp</data>
+      <data key="d9">2023-01-03 02:52:11.570314</data>
+      <data key="d10">A TERMINAR LO SEMANAL</data>
+      <data key="d1">venturawp</data>
+      <data key="d11">1</data>
+      <data key="d12">52</data>
+      <data key="d13">52</data>
+      <data key="d14">52</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="73983">
+      <data key="d6">swag</data>
+      <data key="d7">2023-01-03 06:59:15.610439</data>
+      <data key="d8">73968</data>
+      <data key="d0">apply</data>
+      <data key="d9">2023-03-06 06:09:34.687813</data>
+      <data key="d10">ORI IS BLIND AND IN A FOREST PANIC / NO SPOILERS</data>
+      <data key="d1">apply</data>
+      <data key="d11">17</data>
+      <data key="d12">641</data>
+      <data key="d13">1163</data>
+      <data key="d14">377</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="74668">
+      <data key="d6">drats</data>
+      <data key="d7">2023-01-03 12:36:37.298761</data>
+      <data key="d8">20945</data>
+      <data key="d0">dudley</data>
+      <data key="d9">2023-01-03 12:36:37.298761</data>
+      <data key="d10">🟣 Cozy PvP Build Making - https://t.ly/c55j</data>
+      <data key="d1">dudley</data>
+      <data key="d11">1</data>
+      <data key="d12">10</data>
+      <data key="d13">10</data>
+      <data key="d14">10</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="74801">
+      <data key="d6">Soulsborne since 2009, Twitch streamer since 2012. These days I play a large variety of games. I have a strong passion for the potential of MMOs while at the same time hating all modern MMOs. Beat "I Wanna Be The Boshy" including Cheetahmen, so I'm kind of a god gamer regardless what my viewers say.</data>
+      <data key="d7">2023-01-07 10:06:48.299072</data>
+      <data key="d8">201501</data>
+      <data key="d0">peeve</data>
+      <data key="d9">2023-03-11 16:29:42.310934</data>
+      <data key="d10">Peeve in THE FINALS</data>
+      <data key="d1">peeve</data>
+      <data key="d11">56</data>
+      <data key="d12">1506</data>
+      <data key="d13">2516</data>
+      <data key="d14">643</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="75025">
+      <data key="d6">Honk Honk</data>
+      <data key="d7">2023-01-03 03:29:18.508511</data>
+      <data key="d8">1145</data>
+      <data key="d0">weebotheclown</data>
+      <data key="d9">2023-01-03 03:29:18.508511</data>
+      <data key="d10">[18+] [EN} New PC New Me 🤡 | 406/425 Followers</data>
+      <data key="d1">weebotheclown</data>
+      <data key="d11">1</data>
+      <data key="d12">7</data>
+      <data key="d13">7</data>
+      <data key="d14">7</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="75240">
+      <data key="d6" />
+      <data key="d7">2022-12-22 14:08:37.774657</data>
+      <data key="d8">1214</data>
+      <data key="d0">kawaiinaeng</data>
+      <data key="d9">2022-12-22 14:08:37.774657</data>
+      <data key="d10">-링-</data>
+      <data key="d1">kawaiinaeng</data>
+      <data key="d11">1</data>
+      <data key="d12">26</data>
+      <data key="d13">26</data>
+      <data key="d14">26</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="75896">
+      <data key="d6">Gamer. People Lover. Lifegiver. Adventurer. Scots lass streaming a variety of games and mostly giving myself a fright at the most ridiculous of things. business enquiries: justkaalin@gmail.com</data>
+      <data key="d7">2023-01-03 18:22:21.325762</data>
+      <data key="d8">22831</data>
+      <data key="d0">justkaalin</data>
+      <data key="d9">2023-01-03 18:22:21.325762</data>
+      <data key="d10">[Scottish] MALENIA I CRY|| Day 3 / 31 || !kofi !findme</data>
+      <data key="d1">justkaalin</data>
+      <data key="d11">1</data>
+      <data key="d12">147</data>
+      <data key="d13">147</data>
+      <data key="d14">147</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="78107">
+      <data key="d6">Yes it is me the real Adriana Chechik AKA BratNasty.  I am on here to play some games, make some friends, and create a different type of content than I normally make.</data>
+      <data key="d7">2023-01-03 05:55:33.688654</data>
+      <data key="d8">854142</data>
+      <data key="d0">adrianachechik_</data>
+      <data key="d9">2023-03-06 10:09:25.201310</data>
+      <data key="d10">BOSS FIGHT!! | WO LONG : FALLEN DYNASTY | FPT | NO BACKSEAT | PS5 | LETS GO!!!!</data>
+      <data key="d1">adrianachechik_</data>
+      <data key="d11">59</data>
+      <data key="d12">1855</data>
+      <data key="d13">4412</data>
+      <data key="d14">629</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="78145">
+      <data key="d6">Fish resume: Wiggly Cult Leader, Fish, End of listLinks and credits and email: https://osakananemu.carrd.co/</data>
+      <data key="d7">2022-12-25 01:36:30.692957</data>
+      <data key="d8">65337</data>
+      <data key="d0">nemu</data>
+      <data key="d9">2023-02-08 02:48:09.232791</data>
+      <data key="d10">NERD STREAM LETSGOOOO Opening MTG Packs then onto MTGA To celebrate ONE release!~</data>
+      <data key="d1">nemu</data>
+      <data key="d11">9</data>
+      <data key="d12">750</data>
+      <data key="d13">931</data>
+      <data key="d14">422</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="78647">
+      <data key="d6">치리휘 입니다.</data>
+      <data key="d7">2023-01-03 09:58:57.239507</data>
+      <data key="d8">2139</data>
+      <data key="d0">chirihwi</data>
+      <data key="d9">2023-01-03 09:58:57.239507</data>
+      <data key="d10">엘든링( 초회차 같은 1회차)</data>
+      <data key="d1">chirihwi</data>
+      <data key="d11">1</data>
+      <data key="d12">18</data>
+      <data key="d13">18</data>
+      <data key="d14">18</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="79474">
+      <data key="d6">Aggressively mediocre at all the games I play. Lets hope I break the games first before I break myself</data>
+      <data key="d7">2023-01-09 02:47:20.474200</data>
+      <data key="d8">546557</data>
+      <data key="d0">pointcrow</data>
+      <data key="d9">2023-03-06 04:47:38.321145</data>
+      <data key="d10">BOTW BUT ITS DARK SOULS | !tts on</data>
+      <data key="d1">pointcrow</data>
+      <data key="d11">31</data>
+      <data key="d12">1988</data>
+      <data key="d13">2884</data>
+      <data key="d14">1212</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="80038">
+      <data key="d6">come and chill</data>
+      <data key="d7">2023-01-23 08:34:04.721322</data>
+      <data key="d8">510</data>
+      <data key="d0">releim</data>
+      <data key="d9">2023-01-23 08:34:04.721322</data>
+      <data key="d10">ELDEN GOD</data>
+      <data key="d1">releim</data>
+      <data key="d11">1</data>
+      <data key="d12">21</data>
+      <data key="d13">21</data>
+      <data key="d14">21</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="80364">
+      <data key="d7">2022-12-24 20:39:13.355235</data>
+      <data key="d0">dantegametw</data>
+      <data key="d9">2022-12-24 20:39:13.355235</data>
+      <data key="d10">Clique Da Sorte! -Apoie o canal seguindo a gente! (!Sorteio r$100,r$70,r$30)COOP (PS4)(PS5) (!youtube) (!Discord)(sejam todos bem vindos</data>
+      <data key="d1">dantegametw</data>
+      <data key="d11">1</data>
+      <data key="d12">27</data>
+      <data key="d13">27</data>
+      <data key="d14">27</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="81833">
+      <data key="d6">Hier lieben wir gemeinsames Lernen, den Horizont erweitern, Aufklärung, respektvolles Miteinander, Strategie-, Basebuilding- und Indietitel, aber es finden viele Exkursionen in andere Kategorien statt.</data>
+      <data key="d7">2023-01-28 13:46:15.450150</data>
+      <data key="d8">8534</data>
+      <data key="d0">einfachsonina</data>
+      <data key="d9">2023-01-28 13:46:15.450150</data>
+      <data key="d10">Tag 11 in Elden Ring | Dieser Baum ist gemein! | No Ashes and no summons!</data>
+      <data key="d1">einfachsonina</data>
+      <data key="d11">1</data>
+      <data key="d12">796</data>
+      <data key="d13">796</data>
+      <data key="d14">796</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="82225">
+      <data key="d6">Développeur | Streamer ! J’ai créé mon premier jeu sur AMIGA : Genesia (Ultimate Domain aux USA) Tilt d'or 1993, face aux challengers « Dune 2 et Starlord »</data>
+      <data key="d7">2023-01-04 11:06:37.307194</data>
+      <data key="d8">164502</data>
+      <data key="d0">sir_thomas_</data>
+      <data key="d9">2023-03-11 14:44:51.739786</data>
+      <data key="d10">Tapez !swc (NOUVEAUX SERVEURS EU Tilasha) Découverte de Summoners War: Chronicles pour sa sortie européenne #ad</data>
+      <data key="d1">sir_thomas_</data>
+      <data key="d11">57</data>
+      <data key="d12">1316</data>
+      <data key="d13">2232</data>
+      <data key="d14">555</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="84146">
+      <data key="d6" />
+      <data key="d7">2023-01-03 00:01:38.178846</data>
+      <data key="d8">536</data>
+      <data key="d0">qmonkeq</data>
+      <data key="d9">2023-01-03 00:01:38.178846</data>
+      <data key="d10">IMI URASC VIATA ASA CA MA JOC ELDEN RING TOATA NOAPTEA</data>
+      <data key="d1">qmonkeq</data>
+      <data key="d11">1</data>
+      <data key="d12">3</data>
+      <data key="d13">3</data>
+      <data key="d14">3</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="84224">
+      <data key="d6">生まれたばかりの配信者ですスタンプはインスパイアされてオマージュしたものです本体は右下か左下にいる🎩被った猫のような何かです</data>
+      <data key="d7">2023-01-02 23:33:05.632790</data>
+      <data key="d8">992</data>
+      <data key="d0">nomane3</data>
+      <data key="d9">2023-01-02 23:33:05.632790</data>
+      <data key="d10">しんねんリング</data>
+      <data key="d1">nomane3</data>
+      <data key="d11">1</data>
+      <data key="d12">153</data>
+      <data key="d13">153</data>
+      <data key="d14">153</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="84705">
+      <data key="d6">Hi! I'm Void. I love to play Platform Fighters, RPGs, and FGC games! </data>
+      <data key="d7">2023-01-02 21:14:16.841887</data>
+      <data key="d8">220735</data>
+      <data key="d0">gsmvoid</data>
+      <data key="d9">2023-03-04 04:38:29.354137</data>
+      <data key="d10">WHY IS ELDEN RING SO HARD??? First Playthrough!</data>
+      <data key="d1">gsmvoid</data>
+      <data key="d11">15</data>
+      <data key="d12">1018</data>
+      <data key="d13">2466</data>
+      <data key="d14">53</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="85819">
+      <data key="d6">방송은 월,화,수 - 휴방 / 목,금,토,일 낮 12시부터 진행됩니다.방송 보러 와주시는 분들 정말 정말 감사합니다!</data>
+      <data key="d7">2023-01-05 09:26:04.827795</data>
+      <data key="d8">65082</data>
+      <data key="d0">pparkshy</data>
+      <data key="d9">2023-03-02 07:15:29.239033</data>
+      <data key="d10">CL KDF VS DRX 2시 샤이 중계</data>
+      <data key="d1">pparkshy</data>
+      <data key="d11">9</data>
+      <data key="d12">734</data>
+      <data key="d13">2047</data>
+      <data key="d14">359</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="88125">
+      <data key="d7">2023-01-07 18:07:06.924729</data>
+      <data key="d8">201336</data>
+      <data key="d0">abuswe7l</data>
+      <data key="d9">2023-02-05 13:54:00.104952</data>
+      <data key="d10">!OL | #WeArePOWR | lil busy</data>
+      <data key="d1">abuswe7l</data>
+      <data key="d11">12</data>
+      <data key="d12">964</data>
+      <data key="d13">1256</data>
+      <data key="d14">485</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="88723">
+      <data key="d6">♠️♦️ Anime MMO, RPG, and Gacha addict | STREAMS: Tues, Thurs, Sat, Sun @ 7PM PST / 10PM EST ♥️♣️</data>
+      <data key="d7">2023-01-05 10:35:17.591799</data>
+      <data key="d8">81138</data>
+      <data key="d0">rubee</data>
+      <data key="d9">2023-03-06 10:30:38.600469</data>
+      <data key="d10">🔴 Worm of the Forest ~</data>
+      <data key="d1">rubee</data>
+      <data key="d11">26</data>
+      <data key="d12">545</data>
+      <data key="d13">1107</data>
+      <data key="d14">0</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="89542">
+      <data key="d6">yo.  contactcinnatwitch@gmail.com</data>
+      <data key="d7">2023-01-22 02:36:48.518886</data>
+      <data key="d8">85810</data>
+      <data key="d0">cinna</data>
+      <data key="d9">2023-04-19 01:34:36.218951</data>
+      <data key="d10">BAD STREAMERS ™ WITH @MIZKIF</data>
+      <data key="d1">cinna</data>
+      <data key="d11">20</data>
+      <data key="d12">1597</data>
+      <data key="d13">10047</data>
+      <data key="d14">674</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="90631">
+      <data key="d6">Welcome! Just a short goblin doin' her best! Streaming Art, Games and a lil Animation!   ~She/Her~  Twitter Art tag: #honeysartbrew</data>
+      <data key="d7">2023-01-07 03:58:24.559678</data>
+      <data key="d8">103080</data>
+      <data key="d0">honey_goblin</data>
+      <data key="d9">2023-03-11 21:30:50.850732</data>
+      <data key="d10">One more stream then it's time for vacay!</data>
+      <data key="d1">honey_goblin</data>
+      <data key="d11">17</data>
+      <data key="d12">964</data>
+      <data key="d13">1389</data>
+      <data key="d14">704</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="92934">
+      <data key="d6">Click on the FOLLOW button maybe you get like noclip or something</data>
+      <data key="d7">2023-01-05 14:36:27.408495</data>
+      <data key="d8">310970</data>
+      <data key="d0">nymn</data>
+      <data key="d9">2023-04-16 15:16:12.443616</data>
+      <data key="d10">HEY GUYS!! MOVIE NIGHT TODAY FR :))) | !pobox !twitter</data>
+      <data key="d1">nymn</data>
+      <data key="d11">69</data>
+      <data key="d12">2430</data>
+      <data key="d13">4016</data>
+      <data key="d14">954</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="92976">
+      <data key="d6" />
+      <data key="d7">2023-02-06 16:36:22.698473</data>
+      <data key="d8">46662</data>
+      <data key="d0">jeathebelle</data>
+      <data key="d9">2023-02-06 16:36:22.698473</data>
+      <data key="d10">Jeath &lt;echo&gt; !factor !ultimate !roster</data>
+      <data key="d1">jeathebelle</data>
+      <data key="d11">1</data>
+      <data key="d12">551</data>
+      <data key="d13">551</data>
+      <data key="d14">551</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="93016">
+      <data key="d6" />
+      <data key="d7">2023-01-04 19:48:03.374349</data>
+      <data key="d8">65976</data>
+      <data key="d0">sees360</data>
+      <data key="d9">2023-03-05 18:51:10.517907</data>
+      <data key="d10">싸우지 말기 1일 차</data>
+      <data key="d1">sees360</data>
+      <data key="d11">87</data>
+      <data key="d12">1181</data>
+      <data key="d13">1679</data>
+      <data key="d14">790</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="94266">
+      <data key="d6">I'm Nyatasha Nyanners and I'm a pink eldritch cat who loves 2 snooze. | Avatar art: muryou_tada rigging: Soy @ Iron Vertex   |  Banner art: Bokkun168 &amp; Fastnotch | Banner &amp; Panel graphics: MelonTurtle | MAMETCHI Logo: UWUMedia</data>
+      <data key="d7">2023-01-04 00:41:32.359213</data>
+      <data key="d8">1010713</data>
+      <data key="d0">nyanners</data>
+      <data key="d9">2023-04-21 08:33:25.667776</data>
+      <data key="d10">Spitting bars with @Lordaethelstan #NeverSmoked</data>
+      <data key="d1">nyanners</data>
+      <data key="d11">41</data>
+      <data key="d12">6592</data>
+      <data key="d13">9472</data>
+      <data key="d14">4387</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="94825">
+      <data key="d6">hi! im a 2d demon girl with a thirst for blood and chicken nuggies. let's game, human B)</data>
+      <data key="d7">2023-01-04 21:12:25.450814</data>
+      <data key="d8">64265</data>
+      <data key="d0">lucypyre</data>
+      <data key="d9">2023-03-10 21:23:09.937804</data>
+      <data key="d10">I DIDN'T HAVE A NARUTO PHASE FOR NOTHING, COWBOY [Sekiro] [1ST PLAYTHRU] [backseating required when lost uwu]</data>
+      <data key="d1">lucypyre</data>
+      <data key="d11">6</data>
+      <data key="d12">1265</data>
+      <data key="d13">1830</data>
+      <data key="d14">1027</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="94907">
+      <data key="d6">Ringeldingdingding. </data>
+      <data key="d7">2023-01-05 20:51:49.016876</data>
+      <data key="d8">198575</data>
+      <data key="d0">tobinatorlp</data>
+      <data key="d9">2023-03-01 23:41:35.345786</data>
+      <data key="d10">Heute: Kelvin schleppt noch mehr an - Sons of the Forest die Zweite | !social !vod</data>
+      <data key="d1">tobinatorlp</data>
+      <data key="d11">10</data>
+      <data key="d12">1896</data>
+      <data key="d13">2584</data>
+      <data key="d14">1366</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="95722">
+      <data key="d7">2023-01-05 21:09:23.135486</data>
+      <data key="d0">tamae_senpai</data>
+      <data key="d9">2023-01-18 18:10:18.831690</data>
+      <data key="d10">NIE KOŃCZĘ STREAMA DOPÓKI NIE POKONAM MALENI W ELDEN RINGU 💀 | !yt !7tv !ig</data>
+      <data key="d1">tamae_senpai</data>
+      <data key="d11">5</data>
+      <data key="d12">957</data>
+      <data key="d13">1136</data>
+      <data key="d14">751</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="96399">
+      <data key="d6">Faço lives de segunda à sexta, as vezes finais de semana também. Meu objetivo nas lives é interagir com o chat em qualquer conteúdo que eu estiver produzindo, seja jogando, ouvindo música (de todos os tipos), pescando ou até fazendo manutenção no Celta. Seja bem vindo =)</data>
+      <data key="d7">2023-01-06 16:16:16.507044</data>
+      <data key="d8">108678</data>
+      <data key="d0">buozzi</data>
+      <data key="d9">2023-02-08 18:07:25.895246</data>
+      <data key="d10">(+18) BRUXOZZI: DROP ON!</data>
+      <data key="d1">buozzi</data>
+      <data key="d11">19</data>
+      <data key="d12">974</data>
+      <data key="d13">1881</data>
+      <data key="d14">654</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="97534">
+      <data key="d6">Cookie The Dog Was Here</data>
+      <data key="d7">2023-01-09 09:10:27.438339</data>
+      <data key="d8">177757</data>
+      <data key="d0">lprod_</data>
+      <data key="d9">2023-02-01 06:34:09.617341</data>
+      <data key="d10">Diablo Style Loot Mod</data>
+      <data key="d1">lprod_</data>
+      <data key="d11">2</data>
+      <data key="d12">538</data>
+      <data key="d13">557</data>
+      <data key="d14">519</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="97675">
+      <data key="d6">© STUDIO NGC. All Rights Reserved.</data>
+      <data key="d7">2023-01-09 12:35:47.241358</data>
+      <data key="d8">27148</data>
+      <data key="d0">ngc_the_twitch</data>
+      <data key="d9">2023-03-03 15:20:09.166728</data>
+      <data key="d10">NGC『Wo Long: Fallen Dynasty』生放送</data>
+      <data key="d1">ngc_the_twitch</data>
+      <data key="d11">13</data>
+      <data key="d12">757</data>
+      <data key="d13">1020</data>
+      <data key="d14">336</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="98118">
+      <data key="d6">THE LEFT 4 DEAD </data>
+      <data key="d7">2023-01-18 06:53:20.372589</data>
+      <data key="d8">7057</data>
+      <data key="d0">abisxoxo</data>
+      <data key="d9">2023-01-21 05:03:58.533457</data>
+      <data key="d10">RegionLocked RANDOMIZER Speedruns | Items/Enemies</data>
+      <data key="d1">abisxoxo</data>
+      <data key="d11">2</data>
+      <data key="d12">674</data>
+      <data key="d13">678</data>
+      <data key="d14">670</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="99054">
+      <data key="d6">Welcome to the Girlfriend Reviews Twitch channel! Here you can watch Shelby &amp; Matt capture footage for their YouTube channel as well as just goof around and have a good time. https://streamlabs.com/girlfriendreviews</data>
+      <data key="d7">2023-01-23 07:05:11.800639</data>
+      <data key="d8">251275</data>
+      <data key="d0">girlfriendreviews</data>
+      <data key="d9">2023-03-02 02:02:42.269030</data>
+      <data key="d10">Final day of camping! We're leaving The Forest.</data>
+      <data key="d1">girlfriendreviews</data>
+      <data key="d11">10</data>
+      <data key="d12">1700</data>
+      <data key="d13">2375</data>
+      <data key="d14">511</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="99216">
+      <data key="d6">hey</data>
+      <data key="d7">2023-01-16 07:21:43.692803</data>
+      <data key="d8">551271</data>
+      <data key="d0">clintstevens</data>
+      <data key="d9">2023-03-11 12:36:41.121978</data>
+      <data key="d10">70star speedrun</data>
+      <data key="d1">clintstevens</data>
+      <data key="d11">42</data>
+      <data key="d12">6616</data>
+      <data key="d13">11377</data>
+      <data key="d14">3905</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="100407">
+      <data key="d6">Haii~~I’m Cinnanoe! I stream a variety of games every Tues, Thurs, and Sat ♡ ◝(ᵔᵕᵔ)◜ ♡ thank you for being here I hope you enjoy your stay!!</data>
+      <data key="d7">2023-01-17 06:58:26.959900</data>
+      <data key="d8">94920</data>
+      <data key="d0">cinnanoe</data>
+      <data key="d9">2023-03-05 21:03:22.256315</data>
+      <data key="d10">MEH KIRIKO COSPLAY STREM!! WE PLAY GAMES!! CURSED!! GET READY FOR EVENT AND STUFF WEEEEE</data>
+      <data key="d1">cinnanoe</data>
+      <data key="d11">6</data>
+      <data key="d12">716</data>
+      <data key="d13">1217</data>
+      <data key="d14">449</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="100935">
+      <data key="d6">玄人です。ゲームタイトルに関わらずチア―はご遠慮いただいております。</data>
+      <data key="d7">2023-01-18 10:12:01.250228</data>
+      <data key="d8">23591</data>
+      <data key="d0">ateliersage</data>
+      <data key="d9">2023-01-30 16:47:03.548716</data>
+      <data key="d10">PC版エルデンリング2</data>
+      <data key="d1">ateliersage</data>
+      <data key="d11">5</data>
+      <data key="d12">830</data>
+      <data key="d13">1137</data>
+      <data key="d14">517</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="101255">
+      <data key="d6">Quelaag</data>
+      <data key="d7">2023-01-19 07:06:04.822770</data>
+      <data key="d8">5974</data>
+      <data key="d0">xingenue</data>
+      <data key="d9">2023-01-19 07:06:04.822770</data>
+      <data key="d10">Lofi Elden Ring To Study and Relax to</data>
+      <data key="d1">xingenue</data>
+      <data key="d11">1</data>
+      <data key="d12">972</data>
+      <data key="d13">972</data>
+      <data key="d14">972</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="101593">
+      <data key="d6">I like  games so I stream them on twitch and upload videos of them on youtube.  You can find me at https://www.youtube.com/dotodoya</data>
+      <data key="d7">2023-01-22 00:43:01.813424</data>
+      <data key="d8">157167</data>
+      <data key="d0">dotodoya</data>
+      <data key="d9">2023-03-10 23:02:22.172090</data>
+      <data key="d10">Yu-Gi-Oh! MASTER DUEL 1st Anniversary Invitational | !masterduel</data>
+      <data key="d1">dotodoya</data>
+      <data key="d11">54</data>
+      <data key="d12">1238</data>
+      <data key="d13">2221</data>
+      <data key="d14">462</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="103823">
+      <data key="d6">Just chillin, come chill too :D</data>
+      <data key="d7">2023-01-26 08:12:49.997258</data>
+      <data key="d8">1791</data>
+      <data key="d0">lherault69_</data>
+      <data key="d9">2023-01-26 08:12:49.997258</data>
+      <data key="d10">Smellden Ring (dont let me cook)</data>
+      <data key="d1">lherault69_</data>
+      <data key="d11">1</data>
+      <data key="d12">408</data>
+      <data key="d13">408</data>
+      <data key="d14">408</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="104157">
+      <data key="d7">2023-01-29 03:49:25.763268</data>
+      <data key="d8">3534</data>
+      <data key="d0">nuclearpastatom</data>
+      <data key="d9">2023-03-03 03:24:21.514012</data>
+      <data key="d10">ANY% BHF PRACTICE AND DERUST</data>
+      <data key="d1">nuclearpastatom</data>
+      <data key="d11">4</data>
+      <data key="d12">868</data>
+      <data key="d13">1517</data>
+      <data key="d14">619</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <node id="105458">
+      <data key="d6">I'm a colour caster &amp; desk analyst for VALORANT, former Overwatch League talent, a has-been TF2 player, and an overall terrible gamer at everything I touch. It's unreal. I need professional help.</data>
+      <data key="d7">2023-02-06 01:13:44.719585</data>
+      <data key="d8">98402</data>
+      <data key="d0">sideshow</data>
+      <data key="d9">2023-02-06 03:09:31.512863</data>
+      <data key="d10">Malenia Dies Today - NO HELP NO QUESTIONS !malenia !mods</data>
+      <data key="d1">sideshow</data>
+      <data key="d11">2</data>
+      <data key="d12">831</data>
+      <data key="d13">870</data>
+      <data key="d14">792</data>
+      <data key="d3">streamer</data>
+      <data key="d4">streamer</data>
+      <data key="d15">streamer</data>
+    </node>
+    <edge source="37699" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37730" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37747" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37780" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37817" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37845" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37851" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37876" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="37881" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38112" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38152" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38194" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38254" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38279" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38416" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38555" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38598" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38720" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38721" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38755" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38899" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38916" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38929" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="38998" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39057" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39139" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39154" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39191" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39198" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39250" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39252" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39262" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39386" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39418" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39622" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39623" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39943" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39959" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="39964" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40060" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40100" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40107" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40129" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40297" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40311" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40336" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40457" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40651" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40653" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40892" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="40910" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41045" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41141" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41330" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41452" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41501" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41717" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="41720" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42017" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42222" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42403" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42434" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42481" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42635" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42755" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42874" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="42877" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43111" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43280" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43342" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43393" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43593" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43662" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43663" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43676" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43867" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43894" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="43894" target="8015">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="43964" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="44074" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="44562" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="44562" target="8828">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="44955" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="45176" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="45237" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="45520" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="45965" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="46440" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="46560" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="46560" target="9296">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="46660" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="46677" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="46971" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="47053" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="47649" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="47657" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="47657" target="9296">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="47808" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48315" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48352" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48352" target="8015">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="48646" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48744" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48844" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48918" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="48919" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49440" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49544" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49544" target="8015">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="49547" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49616" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49651" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49909" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="49915" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="50037" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="50705" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="51448" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="51474" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="51518" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="51879" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="53304" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="53320" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="53463" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="53548" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="53864" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="54215" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="54290" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="54515" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="55109" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="55137" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="55515" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="55515" target="8109">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="55569" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="55592" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="55707" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="56177" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="56294" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="56905" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="56917" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="57025" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="58330" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="58344" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="59160" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="59160" target="8015">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="59791" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="59907" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="59932" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="60318" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="60792" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="60851" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="60893" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="61487" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="61490" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="61715" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="62061" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="62126" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="62582" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="62789" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="63037" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="63109" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="64214" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="64214" target="8015">
+      <data key="d17">tagged</data>
+    </edge>
+    <edge source="65044" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="65086" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="65167" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="65355" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="66875" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="66879" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="67494" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="67634" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="68480" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="68863" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="69021" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="69561" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="69671" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="72288" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73100" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73116" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73441" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73474" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73488" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73574" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73613" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73888" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="73983" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="74668" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="74801" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="75025" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="75240" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="75896" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="78107" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="78145" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="78647" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="79474" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="80038" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="80364" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="81833" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="82225" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="84146" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="84224" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="84705" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="85819" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="88125" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="88723" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="89542" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="90631" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="92934" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="92976" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="93016" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="94266" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="94825" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="94907" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="95722" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="96399" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="97534" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="97675" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="98118" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="99054" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="99216" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="100407" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="100935" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="101255" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="101593" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="103823" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="104157" target="84">
+      <data key="d17">plays</data>
+    </edge>
+    <edge source="105458" target="84">
+      <data key="d17">plays</data>
+    </edge>
+  </graph>
+</graphml>
